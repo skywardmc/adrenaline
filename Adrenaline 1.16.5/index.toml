@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "3a5212c931495fe81f5690a9a3c7379c68432057dbd3ac41f4109527a8b2b10e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c60bb92d80a5e4327c69ef4f3fb0537753916e73c60819e4a196f488546380eb"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0abe0481b3f45b4d59e556bf106534a733f1aec5060187dccf1ca61dd8970999"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "89b2a2d726bc85a3a0a0bac2db0b79c1c0e59854c973e0aaa45017a570aa7525"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "bf2421783628014944ba0dd680e689eabc1008fb2cdfa5b0b8773c8e99cdccf5"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "09cf109c20bb76b04db3016f0682d5b7ac112f93ad9790a9d43cfa3229171516"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "17353399478d352bbee8623f3fa8087fc96506c647a9eeda066ef80af27c69c4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a63bf998df259adebbfca4e1f2947b909108c3babf29cf93936b60b71621c97b"
+metafile = true

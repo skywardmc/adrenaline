@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bedrodium.pw.toml"
+hash = "98e7a87ca292ed3df4a532819499a9bf9e6d1bada60a45db4d0da44e061c36e1"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "33c68767badc2a90da6d7cc42cac0d9e4987448310936b2a8cd73998a6e3bec6"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "bb6ab47efa911558b5cceb717f710f5e9119f508a856bb91d6bcc45d3b26e0a1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1f3428bc8496af885e4717aeb5c7b1203cc9ed1e476617754c44e2e3d5368d0f"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "2cceceaffbf1831ff7f86c0107f2a4a5225df2a9fd07a14db7228ac2d17c8b75"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "77305bab2a5ac3d99e86690159a03eb47e371b6ed3482670c7da79fde3701bbc"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "d8548ffdb52c03215a89f5dd4b241e81b50dfa8df94ed308f3f1ef1790ff898b"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "bf2421783628014944ba0dd680e689eabc1008fb2cdfa5b0b8773c8e99cdccf5"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "9474f8d311b979942ef272e6f21e280a398a2a5d97c2246f7060737c5183f439"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "eed4535ca07930f6c73238fb97e93e5b220e2d0d23f52d56ab5b5f457de36e00"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "5de9bf6312dc5693a334d79452a33caa690412e94fb590d1f621832d4b203f14"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "06fdab556c6026b3afcdeaa48b4ee786c2b33181c61733bb93b631056a6b899b"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "cb5a9fbd4e68d646c932f6e780cb4daf518436c4149ad0744ad1679e098009d9"
+metafile = true
