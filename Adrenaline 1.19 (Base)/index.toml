@@ -84,3 +84,8 @@ metafile = true
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "1019a95bc491e51612313e91338271ca19fc1e572b9f48a2f9bfd3d5fbf88b71"
+metafile = true
