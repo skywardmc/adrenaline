@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/sodium-options.json"
+hash = "d421eba4ccccc8268d83c11d675c5b08b20dd7cb63df5a408754832aa3fd0343"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
 file = "mods/bedrodium.pw.toml"
 hash = "bf93c5e4de2e8b6eaba6a41d7bd1fc9d11009fc5946698c86b0deec015a372db"
 metafile = true
@@ -12,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "0308eef7cdd163b3e0ad8f77088f898babdda94c2f361b979105bac57e5baa9d"
+hash = "ac2207cfc96eabeec2650f09d9ef72d2597fc7438edc9cbdaf5fbb2ba43bfde2"
 metafile = true
 
 [[files]]
@@ -27,7 +35,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0abfe9921def68fc3ac821f7eae5bc938377b7dde847dd16be192d4a0b2e777c"
+hash = "0164a54948e8c8b4220f1b3f8a41a1c450050fe19e04256ed96e36f58db019d3"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "ac0a425f01b57603d143e65eebba8b53078474c61f8f0a9a35ab2bbd7ed3a931"
 metafile = true
 
 [[files]]
@@ -46,11 +59,6 @@ hash = "c63f5974b8ec0b09d0651bd4a25e7e5fb843ff66263ae691a3bf3fbb619d7ede"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "e4063fffeef1ed23907f551fad53b2da515e6aabdcb7accf53f828249a389496"
-metafile = true
-
-[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "8ea1740a6525c5435b2f76eb90f889aa99a77f447c5c0a1687f45ea8987b57c1"
 metafile = true
@@ -62,17 +70,22 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "9d831580e7244af99d75d521fd3b36a4d6d0462b01839051e9f62667b3a14a2e"
+hash = "9bedd7ca66c806a5bc8bfefc04ac3a4665bccf3a6672e3a4ebd69dd752c5ee6f"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a36c4ccbc2b3748f8a7e0818cc495b614a67f9b56ae977bd7d3b9974b36ee819"
+hash = "0ef44b9254451d85119e6f7906fa1069edd4eb513d6b183db9e3f56f66e6281a"
 metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "cf1f5080da42edb1d6a354bc66cd4514fb80c22a3a92d5fb330e46e835540018"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
 
 [[files]]
@@ -87,5 +100,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0516b1b0b70444fce8fe01656fc03f1e66b1f8b6e04a6b3b1845a57c80057b72"
+hash = "01cd799124d6e1709187f7bc49666ff87e774aafb50f7b97b3689fc210bef5d7"
 metafile = true

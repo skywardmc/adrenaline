@@ -1,51 +1,64 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/sodium-options.json"
+hash = "d421eba4ccccc8268d83c11d675c5b08b20dd7cb63df5a408754832aa3fd0343"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
 file = "mods/ebe.pw.toml"
-hash = "ebde663a93bf43d3073fbc32e91292014d4ca79d40de2630b6376247e4bca9ec"
+hash = "61c72ce5be0869a31c41c078961e451b82724e09e617ea0fb85c91be9e09b892"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a2bcf4133159853d83571067c883b6b0e74f7ed6c106fd3e3f738c989375635a"
+hash = "cc62c39be7b1e92038627ee2d8157b3e96d020aed56957327c1324c3419bad37"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "da4d8b7a1e431928bd15f3de8e98485ca887cada22d6c8079e19929323c8dc5c"
+hash = "59f6fd7aeeef8bbf15f6c2074c191a761367b3da35b99062b21a3082899eb890"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f1bb3ce4ca3619afcdcb8f69e7c63057c1f5f63c10b8f38579158bc01be9b396"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "041dda49b5ff722a353337adc2d8a35452b16a14ed1e030f62de6187676cd393"
+hash = "e293a0d7086098cfee58295ac42fb323ab4f507ce64425e9b6e43e3638cc6fc6"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "f445492a192cfc6ce84e8af0a2de065c4f29cccfb8b28cbd84adf30a45b8fbf5"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "e4063fffeef1ed23907f551fad53b2da515e6aabdcb7accf53f828249a389496"
+hash = "8ec7c0606e7e063233161bd7018aecf6bdd12207278c3585d56694961d69ef92"
 metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "229b09f29d225f71b95737207af93f77e1fde9a19aa8fafc22bc9dc652ed1d13"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "4b1e3db3248329bd4c11d4ca2ba125861488d25dfbd513108f438020fc38f990"
+hash = "cfff77a6b3c6fd42810c9e2b10e5243258b4949f3935e9e0708f65aed580360c"
 metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "de986966350a738542eb06569b3886a9214e3e4206bd4aa4b3863e8c4a459cf7"
+hash = "9086bcb0c3ac5b8316e693875b130c4829999c956b585605b5aed1422b62a2c4"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a7f18752f36b63af2bbed8f37b8a8b2fff0aa8cddafe0033bf07f00d5b69fe36"
+hash = "14f7c926ce61edff94ccc7ac89c0cd189258445c33b0204fb54c1428ed1d08cf"
 metafile = true
