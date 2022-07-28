@@ -1,7 +1,5 @@
 Adrenaline is a **performance modpack** that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks, or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, none of that. Just speed.
 
-If you do want quality of life mods, try out my other project called [Additive](https://modrinth.com/modpack/additive). It's built off Adrenaline for great performance, while having all the nice features from Optifine like capes and shaders.
-
 Here is a quick video that shows some of the key features of Adrenaline.
 
 <iframe width="840" height="473" src="https://www.youtube.com/embed/xiZOyZ-sblw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -13,6 +11,8 @@ Most of the time I put into this modpack is the optimization, and it gets **bett
 
 ### No QOL Mods!
 Many other performance modpacks tend to bundle quality of life mods in them, even when they say its a performance modpack. This is different. I will **always** stay true to it's purpose and **only** include optimization mods. No zoom mods, none of that. That's why I call it a base layer, you can add those extra QOL mods yourself after you install it.
+
+If you do want quality of life mods, try out my other project called [Additive](https://modrinth.com/modpack/additive). It's built off Adrenaline for **great** performance, while having all the nice features from Optifine like capes and shaders.
 
 ### Very Quick Updates!
 I try to update to newer Minecraft versions as **fast as possible**. The Modrinth page explains how the versioning works, so go onto there and read if you want to.
