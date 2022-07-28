@@ -12,7 +12,7 @@ Many other performance modpacks tend to bundle quality of life mods in them, eve
 I try to update to newer Minecraft versions as fast as possible. The Modrinth page explains how the versioning works, so go onto there and read if you want to.
 
 ### Can I use this in my modpack?
-Yes, you can! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is credit somewhere. You don't **have** to give credit -- after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a ton.
+Yes, you can! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is credit somewhere. You don't **have** to give credit - after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a ton.
 
 ### Enjoy!
 So what are you waiting for? Try out Adrenaline today!
