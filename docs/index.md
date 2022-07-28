@@ -5,18 +5,18 @@ Here is a quick video that shows some of the key features of Adrenaline.
 <iframe width="840" height="473" src="https://www.youtube.com/embed/xiZOyZ-sblw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Extreme Optimization!
-A lot of the optimization is done by Sodium, but there are also a few other great optimization mods installed, tweaked to give the greatest performance while looking good. It can improve the framerate up to ten times! Putting that into perspective, Optifine can only play at around two times the framerate.
+A lot of the optimization is done by Sodium, but there are also a few other great optimization mods installed, tweaked to give the greatest performance while looking good. It can improve the framerate **up to ten times**! Putting that into perspective, Optifine can only play at around *two times* the framerate.
 
-Most of the time I put into this modpack is the optimization, and it gets better every week.
+Most of the time I put into this modpack is the optimization, and it gets **better every week** or two.
 
 ### No QOL Mods!
 Many other performance modpacks tend to bundle quality of life mods in them, even when they say its a performance modpack. This is different. I will **always** stay true to it's purpose and **only** include optimization mods. No zoom mods, none of that. That's why I call it a base layer, you can add those extra QOL mods yourself after you install it.
 
 ### Very Quick Updates!
-I try to update to newer Minecraft versions as fast as possible. The Modrinth page explains how the versioning works, so go onto there and read if you want to.
+I try to update to newer Minecraft versions as **fast as possible**. The Modrinth page explains how the versioning works, so go onto there and read if you want to.
 
-### Can I use this in my modpack?
-Yes, you can! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is credit somewhere. You don't **have** to give credit - after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a ton. If you do want to give credit, just put this website in there.
+### Can I make a modpack with this publicly?
+Yes, **you can**! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is **credit** somewhere. You don't **have** to give credit - after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a **ton**. If you do want to give credit, just put this website in there.
 
 ### Enjoy!
 So what are you waiting for? Try out Adrenaline today!
