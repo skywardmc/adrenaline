@@ -26,7 +26,7 @@ Yes, *you can*! Feel free to use this in any way you want! If you are making som
 Here is a quick video that shows you how to install it. The process should be very similar on most launchers. Make sure you have all the dependencies for it, all are linked in the description.
 
 <div class="responsive">
-  <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw?start=8?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### Enjoy!
