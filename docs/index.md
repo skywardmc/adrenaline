@@ -23,7 +23,7 @@ I try to update to newer Minecraft versions as **fast as possible**. The Modrint
 Yes, *you can*! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is credit somewhere. You don't **have** to give credit - after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a ton. If you do want to give credit, just put this website in there.
 
 ## How do I install it?
-Here is a quick video that shows you how to install it. The process should be very similar on most launchers. Make sure you have all the dependencies for it, all are linked in the description.
+Here is a quick video that shows you how to install it. The process should be very similar on most launchers. **Make sure you have all the dependencies for it**! all are linked in the description of the video.
 
 <div class="responsive">
   <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
