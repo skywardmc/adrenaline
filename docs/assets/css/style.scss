@@ -7,19 +7,19 @@ $header-bg-color: #CBFEF5;
 $header-bg-color-secondary: #CBFEF5;
 
 // Text
-$section-headings-color: #159957;
-$body-text-color: #96ad93;
-$body-link-color: #1eb833;
-$blockquote-text-color: #7c8f79;
+$section-headings-color: #159936;
+$body-text-color: #8eab8a;
+$body-link-color: #a4b347;
+$blockquote-text-color: #7d917a;
 
 // Code
 $code-bg-color: #f3f6fa;
 $code-text-color: #71a372;
 
 // Borders
-$border-color: #191c18;
-$table-border-color: #191c18;
-$hr-border-color: #191c18;
+$border-color: #e1f0dc;
+$table-border-color: #eaece9;
+$hr-border-color: #eff1ef;
 
 @import "{{ site.theme }}";
 
