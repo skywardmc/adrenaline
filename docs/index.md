@@ -2,7 +2,7 @@ Adrenaline is a **performance modpack** that tries to keep the game as fast as p
 
 Here is a quick video that shows some of the key features of Adrenaline.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xiZOyZ-sblw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="473" src="https://www.youtube.com/embed/xiZOyZ-sblw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Extreme Optimization!
 A lot of the optimization is done by Sodium, but there are also a few other great optimization mods installed, tweaked to give the greatest performance while looking good. It can improve the framerate up to ten times! Putting that into perspective, Optifine can only play at around two times the framerate.
