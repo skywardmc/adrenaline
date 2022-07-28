@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Adrenaline
+Adrenaline is a **performance modpack** that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks, or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, none of that. Just speed.
 
-You can use the [editor on GitHub](https://github.com/intergrav/Adrenaline/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Optimization
+A lot of the optimization is done by Sodium, but there are also a few other great optimization mods installed, tweaked to give the greatest performance while looking good. It can improve the framerate up to ten times! Putting that into perspective, Optifine can only play at around two times the framerate.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### No QOL Mods
+Many other performance modpacks tend to bundle QOL mods within them, even when they say its just for speed. This modpack is different. It will **always** stay true to it's purpose and **only** have optimization mods. No Zoomify, none of that. That's why I call it a base layer, you can add those extra QOL mods yourself after you install it.
 
-### Markdown
+### Quick Updates
+I try to update to newer Minecraft versions as fast as possible. The Modrinth page explains how the versioning works, so go onto there and read if you want to.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Enjoy
+So what are you waiting for? Try out Adrenaline today!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/intergrav/Adrenaline/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(Still working on this site, some stuff may be missing)
