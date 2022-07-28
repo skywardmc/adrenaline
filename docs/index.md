@@ -2,7 +2,9 @@ Adrenaline is a **performance modpack** that tries to keep the game as fast as p
 
 Here is a quick video that shows some of the key features, and comparisons between Vanilla.
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/xiZOyZ-sblw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive">
+  <iframe src="https://www.youtube.com/embed/xiZOyZ-sblw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Extreme Optimization!
 A lot of the optimization is done by Sodium, but there are also a few other great optimization mods installed, tweaked to give the greatest performance while looking good. It can improve the framerate **up to ten times**! Putting that into perspective, Optifine can only play at around *two times* the framerate.
@@ -23,7 +25,9 @@ Yes, *you can*! Feel free to use this in any way you want! If you are making som
 ## How do I install it?
 Here is a quick video that shows you how to install it. The process should be very similar on most launchers. Make sure you have all the dependencies for it, all are linked in the description.
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/9-hT8V_wCqw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive">
+  <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw?modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ### Enjoy!
 Enjoy the modpack!
