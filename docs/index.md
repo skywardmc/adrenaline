@@ -24,7 +24,6 @@ You need a Minecraft launcher that is capable of downloading Modrinth modpacks. 
 * MultiMC
 * PolyMC
 * ATLauncher
-* SKLauncher
 
 ### MultiMC/PolyMC
 To install using MultiMC or PolyMC, they are both very similar.
