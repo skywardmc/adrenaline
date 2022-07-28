@@ -3,7 +3,7 @@ Adrenaline is a **performance modpack** that tries to keep the game as fast as p
 ### Extreme Optimization!
 A lot of the optimization is done by Sodium, but there are also a few other great optimization mods installed, tweaked to give the greatest performance while looking good. It can improve the framerate up to ten times! Putting that into perspective, Optifine can only play at around two times the framerate.
 
-Most of the time put into this modpack is the optimization, and it gets better every week. Most of the time.
+Most of the time I put into this modpack is the optimization, and it gets better every week.
 
 ### No QOL Mods!
 Many other performance modpacks tend to bundle quality of life mods in them, even when they say its a performance modpack. This is different. I will **always** stay true to it's purpose and **only** include optimization mods. No zoom mods, none of that. That's why I call it a base layer, you can add those extra QOL mods yourself after you install it.
