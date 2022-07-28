@@ -6,3 +6,23 @@
 body {
     font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: #14fe18 !default;
+$header-bg-color-secondary: #92ff07 !default;
+
+// Text
+$section-headings-color: #159957 !default;
+$body-text-color: #96ad93 !default;
+$body-link-color: #1eb833 !default;
+$blockquote-text-color: #7c8f79 !default;
+
+// Code
+$code-bg-color: #f3f6fa !default;
+$code-text-color: #71a372 !default;
+
+// Borders
+$border-color: #dce6f0 !default;
+$table-border-color: #e9ebec !default;
+$hr-border-color: #eff0f1 !default;
