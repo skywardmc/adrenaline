@@ -1,0 +1,84 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "d421eba4ccccc8268d83c11d675c5b08b20dd7cb63df5a408754832aa3fd0343"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "mods/bedrodium.pw.toml"
+hash = "bf93c5e4de2e8b6eaba6a41d7bd1fc9d11009fc5946698c86b0deec015a372db"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "5c303c0df9e4d7ffbfb18b79d1bd916eff424ed11cefe831c39169fbfcb690eb"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "89c30e7e42bba13f39caeff641f8a3f4c64f5d27212643b124f4886090423458"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4f3cde0c82cf126ffe36ee035f993bc6d43ac11fbc0223b9c25644f932aa43aa"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "52e2850acf1399c1302187570d6a573d2ebe73666ffbf8fd48546b2b5417d43a"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "ac0a425f01b57603d143e65eebba8b53078474c61f8f0a9a35ab2bbd7ed3a931"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "30724bbe8098326d4df88136aab3926820768d3f4faface2843f30eb6adc7b0f"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "ba11b4c8694cb80ae86c8903caef7d0bf2cf4a604928a74b8218faef90ac7c96"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "8ea1740a6525c5435b2f76eb90f889aa99a77f447c5c0a1687f45ea8987b57c1"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "49f9b24d73adb01f1f1d1349af1549583d1f552a0e88f4885c2f456d6535c842"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "cf1f5080da42edb1d6a354bc66cd4514fb80c22a3a92d5fb330e46e835540018"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "5fb5975fccb703eaabc1094c3653bcfbfd33cda6a57653f53ab9e4832cb3f01e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "f5bc2f876ea557c8fc89360e65a7d2a0ca678160dff3b9fdd5e73d9e7332d7a9"
+metafile = true
