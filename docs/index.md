@@ -19,4 +19,4 @@ I try to update to newer Minecraft versions as **fast as possible**. The Modrint
 Yes, **you can**! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is **credit** somewhere. You don't **have** to give credit - after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a **ton**. If you do want to give credit, just put this website in there.
 
 ### Enjoy!
-So what are you waiting for? Try out Adrenaline today!
+So, what are you waiting for? Try out Adrenaline today!
