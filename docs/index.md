@@ -1,35 +1,16 @@
-## Currently working on this site
+## Adrenaline
 
-just hold on
+Adrenaline is a **performance modpack** that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks, or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, none of that. Just speed.
 
-### Markdown
+[Showcase Video](https://www.youtube.com/watch?v=xiZOyZ-sblw)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Performance
+A lot of the optimization is done by Sodium, but there are also a few other great optimization mods installed, tweaked to give the greatest performance while looking good. It can improve the framerate up to ten times! Putting that into perspective, Optifine can only play at around two times the framerate.
 
-```markdown
-Syntax highlighted code block
+![Vanilla 131 FPS, Sodium 649 FPS, Adrenaline 1233 FPS](https://cdn-raw.modrinth.com//data/BYN9yKrV/images/722ac8a69352ca6b797536111200a5bccaa94939.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Downloads
 
-- Bulleted
-- List
+You can download the modpack over at Modrinth.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/intergrav/Adrenaline/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Modrinth Page](https://modrinth.com/modpack/adrenaline/)
