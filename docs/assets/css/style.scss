@@ -1,13 +1,25 @@
 ---
 ---
 
-$header-bg-color: #1e6bb8;
-$header-bg-color-secondary: #7EA7D3;
+// Headers
+$header-heading-color: #fff;
+$header-bg-color: #14fe18;
+$header-bg-color-secondary: #92ff07;
 
-$body-link-color: #7EA7D3;
-$blockquote-text-color: #819198;
+// Text
+$section-headings-color: #159957;
+$body-text-color: #96ad93;
+$body-link-color: #1eb833;
+$blockquote-text-color: #7c8f79;
 
-$code-text-color: #494D4E;
+// Code
+$code-bg-color: #f3f6fa;
+$code-text-color: #71a372;
+
+// Borders
+$border-color: #dce6f0;
+$table-border-color: #e9ebec;
+$hr-border-color: #eff0f1;
 
 @import "{{ site.theme }}";
 
