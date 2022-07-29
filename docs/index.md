@@ -40,7 +40,7 @@ Enjoy the modpack! Comment about it below here, or join my [modpack Discord](htt
         data-repo-id="R_kgDOHmlZQA"
         data-category="giscus"
         data-category-id="DIC_kwDOHmlZQM4CQfyn"
-        data-mapping="pathname"
+        data-mapping="url"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
