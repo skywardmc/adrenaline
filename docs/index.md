@@ -32,7 +32,7 @@ Here is a quick video that shows you how to install it. The process should be ve
 </div>
 
 ### Enjoy!
-Enjoy the modpack! Comment about it below here, or join my modding Discord! (wip)
+Enjoy the modpack! Comment about it below here, or join my [modpack Discord](https://discord.gg/36Tv44cYte)!
 
 <script src="https://giscus.app/client.js"
         data-repo="intergrav/adrenaline"
