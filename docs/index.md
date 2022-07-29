@@ -32,4 +32,21 @@ Here is a quick video that shows you how to install it. The process should be ve
 </div>
 
 ### Enjoy!
-Enjoy the modpack!
+Enjoy the modpack! Comment about it here, or join my Discord! (wip)
+
+<script src="https://giscus.app/client.js"
+        data-repo="intergrav/adrenaline"
+        data-repo-id="R_kgDOHmlZQA"
+        data-category="giscus"
+        data-category-id="DIC_kwDOHmlZQM4CQfyn"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
