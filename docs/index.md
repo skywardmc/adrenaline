@@ -1,4 +1,4 @@
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/BYN9yKrV?color=%231bd96a&label=Downloads&logo=Modrinth&style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/intergrav/adrenaline?label=Stars&logo=github&style=flat-square) ![Discord Online](https://img.shields.io/discord/1002241722987855942?color=%235865F2&label=Discord&logo=discord&style=flat-square)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/BYN9yKrV?color=%231bd96a&label=Downloads&logo=Modrinth&style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/intergrav/adrenaline?color=%23f0f6fc&label=Stars&logo=GitHub&style=flat-square) ![Discord Online](https://img.shields.io/discord/1002241722987855942?color=%235865F2&label=Discord&logo=discord&style=flat-square)
 ---
 Adrenaline is a **performance modpack** that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks, or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, none of that. Just speed.
 
