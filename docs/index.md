@@ -17,7 +17,7 @@ Most of the time I put into this modpack is the optimization, and it gets **bett
 ### ❌ No QOL Mods!
 Many other performance modpacks tend to bundle quality of life mods in them, even when they say it's a performance modpack. This is different. I will **always** stay true to its purpose and **only** include optimization mods. No zoom mods, none of that. That's why I call it a base layer, you can add those extra QOL mods yourself after you install it.
 
-If you want Optifine features, try out my other project called [Additive](https://modrinth.com/modpack/additive). It's built off Adrenaline for **great** performance, while having all the nice features from Optifine like capes and shaders.
+If you want Optifine features, try out my other project called [Additive](https://intergrav.github.io/Additive/). It's built off Adrenaline for **great** performance, while having all the nice features from Optifine like capes and shaders.
 
 ### ⏩ Very Quick Updates!
 I try to update to newer Minecraft versions as **fast as possible**.
