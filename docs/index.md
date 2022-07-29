@@ -26,7 +26,7 @@ I try to update to newer Minecraft versions as **fast as possible**.
 
 ## ❓ Frequently Asked Questions
 ### 🔧 How do I install it?
-Here is a quick video that shows you how to install it. The process should be very similar on most launchers. **Make sure you have all the dependencies for it**! all are linked in the description of the video.
+Here is a quick video that shows you how to install it. The process should be very similar on most launchers. **Make sure you have all the dependencies for it**! All are linked in the description of the video.
 
 <div class="responsive">
   <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
