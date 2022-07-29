@@ -19,7 +19,7 @@ If you do want quality of life mods, try out my other project called [Additive](
 ### Very Quick Updates!
 I try to update to newer Minecraft versions as **fast as possible**. The Modrinth page explains how the versioning works, so go onto there and read if you want to.
 
-### Can I make a modpack with this publicly?
+## Can I make a modpack with this publicly?
 Yes, *you can*! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is credit somewhere. You don't **have** to give credit - after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a ton. If you do want to give credit, just put this website in there.
 
 ## How do I install it?
@@ -29,7 +29,10 @@ Here is a quick video that shows you how to install it. The process should be ve
   <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-### Enjoy!
+## Feedback
+If you want to talk about the pack or have any questions, please use the [Discord server](https://discord.gg/36Tv44cYte)! However, if you are asking for a feature to be added or giving a bug report, use the [issue tracker](https://github.com/intergrav/Adrenaline/issues) instead. Thanks!
+
+## Enjoy!
 Enjoy the modpack! Comment about it below here, or join my [modpack Discord](https://discord.gg/36Tv44cYte)!
 
 <script src="https://giscus.app/client.js"
