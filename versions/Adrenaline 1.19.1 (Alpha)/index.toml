@@ -6,7 +6,7 @@ hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "af08928fda0807c991cff40de5a17abcc67253aec8228207b26c02d6c568b47a"
+hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 
 [[files]]
 file = "config/tr7zwDonorSettings.json"
@@ -74,7 +74,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "49f9b24d73adb01f1f1d1349af1549583d1f552a0e88f4885c2f456d6535c842"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "8146180d1612a9ec226fb5981f0a95167c19a4a0e6a188eae93c94e5bcc8ea47"
 metafile = true
 
 [[files]]
@@ -99,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "011b32cb1870464290e1faad9825d3f4a00c8178d867025e401c800e385d1d6f"
+hash = "4bee15eb173432a3406d78101e84bc56d35544caf0c405148ad5671201597c39"
 metafile = true
 
 [[files]]

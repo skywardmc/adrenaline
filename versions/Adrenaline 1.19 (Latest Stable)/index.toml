@@ -69,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "afa708339e9e6045d4ab98fb9c85680c672e72d8e46e189a42f507b9829c9c4e"
+hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]
@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "2a61813419fed226a1454113a93680926aef7d90b5b3bae8210c19e302ad61ec"
+hash = "8146180d1612a9ec226fb5981f0a95167c19a4a0e6a188eae93c94e5bcc8ea47"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0eb0a1d5c668a1dd7df77c6ee17199eebc0476eb934bf6bd3505ab29687aae71"
+hash = "bfeba0ef83ca25c52d9c76421b57c6b53bba04aa17d7df0ab85bfacfd57efcd8"
 metafile = true
 
 [[files]]
