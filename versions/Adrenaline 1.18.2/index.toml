@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+
+[[files]]
 file = "config/sodium-options.json"
-hash = "d421eba4ccccc8268d83c11d675c5b08b20dd7cb63df5a408754832aa3fd0343"
+hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 
 [[files]]
 file = "config/tr7zwDonorSettings.json"
@@ -95,5 +99,9 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "f0508e12c190379f5cd0b6985098f34ddf59143d8f48d31504853a0f5fe2fcc0"
+hash = "dbdda81b480de953e930111aec8d2579e879043775b137fd3acf9b1c93aec481"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ee3866679cc972da85e7ea9e465363d37813a17862a24116507bdef8ac23c00f"

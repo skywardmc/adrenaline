@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+
+[[files]]
 file = "config/sodium-options.json"
-hash = "d421eba4ccccc8268d83c11d675c5b08b20dd7cb63df5a408754832aa3fd0343"
+hash = "af08928fda0807c991cff40de5a17abcc67253aec8228207b26c02d6c568b47a"
 
 [[files]]
 file = "config/tr7zwDonorSettings.json"
@@ -54,13 +58,23 @@ hash = "ba11b4c8694cb80ae86c8903caef7d0bf2cf4a604928a74b8218faef90ac7c96"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "8ea1740a6525c5435b2f76eb90f889aa99a77f447c5c0a1687f45ea8987b57c1"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
+file = "mods/lithium.pw.toml"
+hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "49f9b24d73adb01f1f1d1349af1549583d1f552a0e88f4885c2f456d6535c842"
 metafile = true
 
 [[files]]
@@ -82,3 +96,12 @@ metafile = true
 file = "mods/starlight.pw.toml"
 hash = "f5bc2f876ea557c8fc89360e65a7d2a0ca678160dff3b9fdd5e73d9e7332d7a9"
 metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "011b32cb1870464290e1faad9825d3f4a00c8178d867025e401c800e385d1d6f"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ee3866679cc972da85e7ea9e465363d37813a17862a24116507bdef8ac23c00f"
