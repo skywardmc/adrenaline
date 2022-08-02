@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "5dc09aa39836e32c785297fd6e34c70e1ca9cb80264da8b088e0bc166b69d9e9"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "4bee15eb173432a3406d78101e84bc56d35544caf0c405148ad5671201597c39"
+hash = "cce35d218ef5e50b8019054c4bf2d8ec2b679c21a8e14c419e22272e6dafa025"
 metafile = true
 
 [[files]]
