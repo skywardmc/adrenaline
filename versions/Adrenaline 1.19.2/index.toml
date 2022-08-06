@@ -24,12 +24,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e6ef433e20a2d85023ecc70ba2ff5ad2f0cf4565294c40dc108466c758ebb6f1"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "58fd0c579e75880dde1ad661819a3a7c9cdb4cc6ea3c042a9b8ae996adb3b970"
+hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
 metafile = true
 
 [[files]]
@@ -44,7 +39,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "52e2850acf1399c1302187570d6a573d2ebe73666ffbf8fd48546b2b5417d43a"
+hash = "304366ea8d38cac83910345157897777357193349abdc27b2308bb6a098ddd0f"
 metafile = true
 
 [[files]]
@@ -70,11 +65,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
 metafile = true
 
 [[files]]
@@ -114,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d0b918869c86958f598461be71842ce350a36f09f54d9d467a27b65769220eec"
+hash = "09b37b2b73b6a57e928b9f1a623f4bb25408ce42f4473212aa170010f6c9b204"
 metafile = true
 
 [[files]]

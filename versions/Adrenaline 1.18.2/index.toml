@@ -6,11 +6,16 @@ hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
+hash = "f2491c17a592a456453a04c9d99ca53d5ad3dfd2dd797a18ad2bd210d24d5d87"
 
 [[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
+metafile = true
 
 [[files]]
 file = "mods/bedrodium.pw.toml"
@@ -88,6 +93,11 @@ hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b17d25b273caec976c340d196d09482b908d8ae43e389132c787714100ea8186"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d1480fd38a1ac53311baa2d57b92556834372f6ac04c355169441df9a59a161c"
 metafile = true
@@ -99,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "e97955bf7c983ad57602bbaa76c233cf04646b3706b7d28319e4d377872ff923"
+hash = "98c721ecc7b73c286968fcacc8cb8931609050df548ae8e932a08171e168dbab"
 metafile = true
 
 [[files]]
