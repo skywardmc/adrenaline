@@ -46,7 +46,9 @@ For simplicity, I attempt to follow Minecraft's version naming scheme: **1**.**X
 * **X** is the release. This means adding/removing mods. These won't be made too often.
 * **Y** is the patch for that release. This can be updating mods, changing config files, or any other small fix. These will be made often.
 
-I stop support for older versions over time, but it isn't mandatory to update as they should still be very stable.
+I stop supporting older versions over time, but it isn't mandatory to update as they should still be very stable.
+
+LTS (Long-term support) versions are the last minor release of that Minecraft version's major release. This means that 1.16.5 would be the LTS release, not 1.16-1.16.4. LTS versions will be maintained for roughly a year or two before ending support.
 
 # 👍 Thank you!
 Thank you **[CaffeineMC team](https://github.com/CaffeineMC)** for the wonderful optimization mods like Sodium and Lithium - this pack wouldn't exist without you all.
