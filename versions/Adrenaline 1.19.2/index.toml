@@ -28,6 +28,11 @@ hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "4d37e88a354d5b9bbe966212393840e15b9c9b87519bdbf8a14343197b983dab"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "073bff49ec9e664b669794177329cfbeef3c3d91d5c0660cd01144a640e0338b"
 metafile = true
@@ -39,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "304366ea8d38cac83910345157897777357193349abdc27b2308bb6a098ddd0f"
+hash = "518ed22adb529e7273602bf0aa64118d987566a8df092d6d1a79a87397926a53"
 metafile = true
 
 [[files]]
@@ -58,13 +63,13 @@ hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+file = "mods/lazydfu.pw.toml"
+hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
 
 [[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
+file = "mods/lithium.pw.toml"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
 
 [[files]]
@@ -80,11 +85,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "9413d03007564d3eaaf8ec25eabe10d5e741ff0c68017c2d2c824a8ed9be18d3"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "09b37b2b73b6a57e928b9f1a623f4bb25408ce42f4473212aa170010f6c9b204"
+hash = "6bb734f8a8586407f1c3b2fcf4837abca05c0217db736a48647e28f1636e8a3e"
 metafile = true
 
 [[files]]

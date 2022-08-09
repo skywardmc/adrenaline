@@ -93,11 +93,6 @@ hash = "9413d03007564d3eaaf8ec25eabe10d5e741ff0c68017c2d2c824a8ed9be18d3"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -114,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "52bdbde8f7c40334af1549d06d1c2b4fd514d62d5169feae8b981328b1848922"
+hash = "98636b823c117cc7fd28f3779b6de0c37141cfc753cf395bf08fe8ae67bb4b3c"
 metafile = true
 
 [[files]]
