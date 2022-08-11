@@ -1,12 +1,12 @@
 name = "Adrenaline"
 author = "UltraStorm"
-version = "1.4.0"
+version = "1.5.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b99324eda2cc3d8ada1150f01f6fc9b242ebf2313e6ad825b3dca7e688d179bd"
+hash = "3a1f08976d2086aa2a9569837a6b141c6e3fabfceecf36c163d49b6ce996f306"
 
 [versions]
 fabric = "0.14.9"

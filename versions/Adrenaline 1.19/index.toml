@@ -13,16 +13,6 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
-metafile = true
-
-[[files]]
-file = "mods/bedrodium.pw.toml"
-hash = "98e7a87ca292ed3df4a532819499a9bf9e6d1bada60a45db4d0da44e061c36e1"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ee23e2c15742421bd42726c87c1212571faf021af09ea1bc2974b63e5386fb90"
 metafile = true
@@ -85,11 +75,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "9413d03007564d3eaaf8ec25eabe10d5e741ff0c68017c2d2c824a8ed9be18d3"
 metafile = true
 
 [[files]]
