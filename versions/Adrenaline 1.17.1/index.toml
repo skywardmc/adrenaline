@@ -38,11 +38,6 @@ hash = "c60a5d573f70afadc214395c106ad52456e507b8a873c16e6d0f5083fb0e8529"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "3d6b9e75d56542b27c55befcf73c56757fb6198cdb598a69b996e1981234983f"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "3f216956fa906cfdfb32976d3a0b365d11c9c08294e50b0e413dfe6b96468bac"
 metafile = true

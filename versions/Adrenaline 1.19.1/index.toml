@@ -48,11 +48,6 @@ hash = "87f056062378f276e55d07a577ff6c734bb9af9ea2b5591c424f7c381f82a552"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -74,7 +69,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
+hash = "9dbc20e8a4e9bd8c997c2af628640f8dcdd05fde6437afbacd630531735c1fcb"
 metafile = true
 
 [[files]]
