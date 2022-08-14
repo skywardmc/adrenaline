@@ -26,11 +26,17 @@ I try to update to newer Minecraft versions as **fast as possible**.
 
 ## ❓ Frequently Asked Questions
 ### 🔧 How do I install it?
-Here is a quick video that shows you how to install it. The process should be very similar on most launchers. **Make sure you have all the dependencies for it**! All are linked in the description of the video.
+There are two ways to install this pack.
+
+#### ⬇️ Basic
+This is a video that shows you how to install it through the basic way. Make sure you have all the dependencies (linked in the description of the video).
 
 <div class="responsive">
   <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+#### 🔃 Auto-Updating
+Want to have your MultiMC instance automatically update on launch? Check out the [GitHub releases page](https://github.com/intergrav/Adrenaline/releases) to learn more.
 
 ### 📦 Can I make a modpack with this?
 Yes, *you can*! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is credit somewhere. You don't **have** to give credit - after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a ton. If you do want to give credit, just put this website in there.
