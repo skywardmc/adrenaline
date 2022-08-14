@@ -12,7 +12,7 @@
 
 ## About
 
-This is a modpack I work on in my spare time that makes Minecraft extremely fast. It's generally meant for use on low-end devices, but it also works extremely well with Iris shaders. It has no QOL mods, unlike many other optimization modpacks.
+This is a modpack I work on in my spare time that makes Minecraft extremely fast. It's generally meant for use on low-end devices, but it also works very well with Iris shaders. It has no QOL mods, unlike many other optimization modpacks.
 
 It's designed to be a sort of "base layer" that you can build off of to make your own super fast modpacks or use by itself.
 
