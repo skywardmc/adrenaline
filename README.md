@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
 <div align="center">
-  <br />
   <a href="https://github.com/intergrav/Adrenaline">
     <img src="docs/images/Adrenaline Logo+Text.png" alt="Logo" height="90">
   </a>
