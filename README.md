@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
 <div align="center">
+  <br />
   <a href="https://github.com/intergrav/Adrenaline">
     <img src="docs/images/Adrenaline Logo+Text.png" alt="Logo" height="90">
   </a>
@@ -9,16 +10,15 @@
   <p align="center">
     Minimal, base performance layer that tries to make the game as fast as possible.
     <br />
-    <a href="https://github.com/intergrav/Adrenaline"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/intergrav/Adrenaline/wiki"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/intergrav/Adrenaline">View Demo</a>
+    <a href="https://www.youtube.com/watch?v=xiZOyZ-sblw">View Demo</a>
     ·
     <a href="https://github.com/intergrav/Adrenaline/issues">Report Bugs</a>
     ·
     <a href="https://github.com/intergrav/Adrenaline/issues">Request Features</a>
   </p>
-  <p><a href="https://gitpod.io/from-referrer/"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod&amp;style=flat-square" alt="Gitpod ready-to-code"></a></p>
+  <a href="https://gitpod.io/from-referrer/"><img src="https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod&amp;style=flat-square" alt="Gitpod ready-to-code"></a>
 </div>
 
 <!-- TABLE OF CONTENTS -->
