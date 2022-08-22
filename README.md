@@ -7,8 +7,8 @@
   <p align="center">
     Minimal, base performance layer that tries to make the game as fast as possible.
     <br />
-    <a href="https://github.com/intergrav/Adrenaline/wiki"><strong>Explore the docs »</strong></a>
-    <br />
+    <!---<a href="https://github.com/intergrav/Adrenaline/wiki"><strong>Explore the docs »</strong></a>
+    <br />-->
     <a href="https://www.youtube.com/watch?v=xiZOyZ-sblw">View Demo</a>
     ·
     <a href="https://github.com/intergrav/Adrenaline/issues">Report Bugs</a>
