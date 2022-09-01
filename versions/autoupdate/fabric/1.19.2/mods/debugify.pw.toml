@@ -1,0 +1,13 @@
+name = "Debugify"
+filename = "Debugify-2.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/KB2xqwsT/Debugify-2.5.0.jar"
+hash-format = "sha1"
+hash = "69e036e30daab4beae265f099d33c620dcef7008"
+
+[update]
+[update.modrinth]
+mod-id = "QwxR6Gcd"
+version = "KB2xqwsT"

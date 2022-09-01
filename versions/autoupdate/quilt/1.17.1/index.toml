@@ -1,0 +1,57 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "f2491c17a592a456453a04c9d99ca53d5ad3dfd2dd797a18ad2bd210d24d5d87"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "686f0456d171ee699c5b646f3978a5aadfed52da5d70b52fc665c2003b2fe222"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c60a5d573f70afadc214395c106ad52456e507b8a873c16e6d0f5083fb0e8529"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "3f216956fa906cfdfb32976d3a0b365d11c9c08294e50b0e413dfe6b96468bac"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "36f5d2c0ab96da2168fe913b79e368b9c0b4e2fcb212260d2f5f25cc6a94a1cc"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "85a872e9757226eb2a15bea121651b8ffc3eeff3de0d22504bbdf0fa0c9ce3c8"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "916d1c4125ab612768b50c1496aea1d9989d814064a5d89b78c8308c747697e4"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "677cc80d47b051565b0e7fe7b0c0b599fd30eb52df0951c8995da1720c2e3342"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "fefbfc8eb13fbc46b2f46d40237cba601ba23f31b77e62e6a82eff8ea6644708"
