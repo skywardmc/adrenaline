@@ -23,7 +23,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "baf54630db6392999b4232b11fd919383c51b1ef50e8708f902a8cb8422b4bd6"
+hash = "59da146d66e2948dfbd203684937dfb822711a228bd505332b5a979678bedbbc"
 metafile = true
 
 [[files]]
@@ -34,6 +34,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+metafile = true
+
+[[files]]
+file = "mods/exordium.pw.toml"
+hash = "5dc6f26eda0171997214c8557858b7f7e564a32d274931d8840e165c88d84729"
 metafile = true
 
 [[files]]
