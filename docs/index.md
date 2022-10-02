@@ -2,7 +2,7 @@
 > 1.16.5 and 1.17.1 Quilt versions may be buggy or not work altogether. I recommend using a later Quilt version (≥1.18.2) or switching to Fabric for those. They are simply uploaded here for convenience.
 
 > **Note**
-> Experiencing UI issues with mods like Smooth Swapping or REI? Exordium may be the culprit. While it does have its great benefits, it may cause issues with some mods. When trying to fix an issue with those, make sure to test disabling Exordium first.
+> Experiencing UI issues? Exordium may be the culprit. While it does have its great benefits, as it is beta software, it *may* cause issues, *especially* when using mods that modify UI. When trying to fix an issue, make sure to try disabling Exordium first.
 
 Adrenaline is a **performance modpack** that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks, or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, none of that. Just speed.
 
