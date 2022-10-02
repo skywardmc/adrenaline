@@ -1,12 +1,12 @@
 name = "Adrenaline"
 author = "UltraStorm"
-version = "1.7.0"
+version = "1.8.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "7a02a119a9eb164b86008c29fe24d1c664c4dfd659781d9c1ddaa67909933e1c"
+hash = "49973a9296d82aee9298b4936bb04f9ca2f66184580dd91323602b41bd2eddef"
 
 [versions]
 minecraft = "1.18.2"
