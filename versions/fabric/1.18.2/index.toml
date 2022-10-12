@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "925527c4b8d5b1c218378deefa424cdf421004573865a1cfad1a7293647731cc"
+hash = "cbb2bbd4aa11612d6715034bb030b0e1496e1c10c0cbf09de74dd5044cb8cb25"
 metafile = true
 
 [[files]]
