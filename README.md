@@ -15,8 +15,8 @@
     ·
     <a href="https://github.com/intergrav/Adrenaline/issues">Request Features</a>
   </p>
-  <a href="https://modrinth.com/modpack/adrenaline"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/available/modrinth_46h.png" alt="Available on Modrinth" height="36"></a>
-  <a href="https://gitpod.io/from-referrer/"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/supported/gitpod_46h.png" alt="Ready for GitPod" height="36"></a>
+  <a href="https://modrinth.com/modpack/adrenaline"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/available/modrinth_vector.svg" alt="Available on Modrinth" height="36"></a>
+  <a href="https://gitpod.io/from-referrer/"><img src="https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/compact/supported/gitpod_vector.svg" alt="Ready for Gitpod" height="36"></a>
 </div>
 
 ### About
