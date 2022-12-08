@@ -33,6 +33,11 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "0334d043294f3ca4f0bfec9d2124aed7ec0e62621f2bf9f17f83eecd43d5ab73"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
 metafile = true
@@ -44,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "a5c59c3e730a90d86c9fcc59a36eeed58235826cd6630d208dd1422b3d4f0727"
+hash = "e241e62d3b1cd5ca81da53645b6a1b98f8a5d5488a659f78967570e5810f103a"
 metafile = true
 
 [[files]]
@@ -69,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "988b9008e9e4a565a41242add714af08e3cd726c64af452ce1cbec6b8b3e7381"
+hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
 metafile = true
 
 [[files]]
@@ -84,12 +89,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6acef9e3fc0cacaa333d8e7a16eea4d5c08b5281cb4a765e8ac370b6a24210d"
+hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "0c6a9936a83bf29d848ad9eaef31e210e7ce9f9ab81d29707fe7c8f4659ba499"
 metafile = true
 
 [[files]]
