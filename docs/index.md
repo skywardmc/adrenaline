@@ -6,11 +6,7 @@
 
 Adrenaline is a **performance modpack** that tries to keep the game as fast as possible, while still looking great. It is meant to be a sort of "base layer" that you can build on top of to make your own modpacks, or just use by itself. It is designed to have the least mods possible, with the best performance possible. No quality-of-life mods, none of that. Just speed.
 
-Here is a quick video that shows some of the key features, and comparisons between Vanilla.
-
-<div class="responsive">
-  <iframe src="https://www.youtube.com/embed/xiZOyZ-sblw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[Here is a quick video](https://www.youtube.com/watch?v=xiZOyZ-sblw) that shows some of the key features, and comparisons between Vanilla.
 
 ## ➕ Features
 ### 🔥 Extreme Optimization!
@@ -33,11 +29,7 @@ I try to update to newer Minecraft versions as **fast as possible**.
 There are two ways to install this pack.
 
 #### ⬇️ Basic
-This is a video that shows you how to install it through the basic way. Make sure you have all the dependencies (linked in the description of the video).
-
-<div class="responsive">
-  <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+[This is a video](https://www.youtube.com/watch?v=9-hT8V_wCqw) that shows you how to install it through the basic way. Make sure you have all the dependencies (linked in the description of the video).
 
 #### 🔃 Auto-Updating
 Want to have your MultiMC instance automatically update on launch? Check out the [GitHub releases page](https://github.com/intergrav/Adrenaline/releases) to learn more.
@@ -70,20 +62,3 @@ Thank you **[CaffeineMC team](https://github.com/CaffeineMC)** for the wonderful
 Thank you amazing **modders** for developing the other mods in this pack - it helps quite a lot.
 
 And thank **you** for choosing Adrenaline - enjoy the modpack. Join my [modpack Discord](https://discord.gg/36Tv44cYte) for announcements, support, and chatting.
-
-<script src="https://giscus.app/client.js"
-        data-repo="intergrav/adrenaline"
-        data-repo-id="R_kgDOHmlZQA"
-        data-category="giscus"
-        data-category-id="DIC_kwDOHmlZQM4CQfyn"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
-        data-lang="en"
-        data-loading="lazy"
-        crossorigin="anonymous"
-        async>
-</script>
