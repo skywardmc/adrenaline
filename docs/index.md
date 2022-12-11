@@ -65,3 +65,20 @@ Thank you **[CaffeineMC team](https://github.com/CaffeineMC)** for the wonderful
 Thank you amazing **modders** for developing the other mods in this pack - it helps quite a lot.
 
 And thank **you** for choosing Adrenaline - enjoy the modpack. Join my [modpack Discord](https://discord.gg/36Tv44cYte) for announcements, support, and chatting.
+
+<script src="https://giscus.app/client.js"
+        data-repo="intergrav/adrenaline"
+        data-repo-id="R_kgDOHmlZQA"
+        data-category="giscus"
+        data-category-id="DIC_kwDOHmlZQM4CQfyn"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
