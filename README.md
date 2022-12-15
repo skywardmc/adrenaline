@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/intergrav/Adrenaline">
-    <img src="docs/images/Adrenaline Logo+Text.png" alt="Logo" height="90">
+    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/adrenaline/adrenaline_textlogo_256h.png" alt="Logo" height="90">
   </a>
   <br />
   <br />
