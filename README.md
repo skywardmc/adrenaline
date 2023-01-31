@@ -25,7 +25,7 @@ This is a modpack I work on in my spare time that makes Minecraft extremely fast
 
 It's designed to be a "base layer" that you can build off of to make your own super fast modpacks or use by itself.
 
-> Want to know more information about the modpack? [Check out the website](https://intergrav.github.io/Adrenaline/) for download links and more!
+> Want to know more information about the modpack? [Check out the Modrinth page](https://modrinth.com/modpack/Adrenaline/) for download links and more!
 
 ### Built With
 
