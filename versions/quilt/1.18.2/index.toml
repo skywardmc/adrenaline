@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "a013b29b9971b0e7817280a84c0237d8d9a65a60708c5e894754ade7ced0c9a9"
+hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "6ac9730845d3ccd16d691f3d626cdaa78b95e06a73f98503856f602e4f7cad0e"
+hash = "d94f9ad5bbcda1ed1ac5ee7855db8ea638461c507122ed37689ee9a715aaf838"
 metafile = true
 
 [[files]]
