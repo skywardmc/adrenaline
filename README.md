@@ -39,7 +39,7 @@ I do have a modpack called [Additive](https://modrinth.com/modpack/additive) tha
 
 ## ✅ Compatibility
 
-Adrenaline is designed to be compatible with a wide range of devices, even those with very low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and likely Mac as well, although I cannot confirm this as I do not own a Mac. Additionally, Adrenaline is much more compatible with other mods as compared to OptiFine, thanks to its more flexible design and native compatibility with Fabric.
+Adrenaline is designed to be compatible with a wide range of devices, even those with very low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and Mac. Additionally, Adrenaline is much more compatible with other mods as compared to OptiFine, thanks to its more flexible design and native compatibility with Fabric.
 
 ## 🔄️ Updates quickly
 
