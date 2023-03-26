@@ -42,7 +42,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5bc704a49911e9a029dc47cda6dba6920085b902143856015fd0f146550f3a05"
+hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
 metafile = true
 
 [[files]]
@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
+hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "79e31e1697a4121696b9a1817ff75ebe58af1514f132cdc64522d4ca4e0cdd08"
+hash = "631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314"
 metafile = true
 
 [[files]]

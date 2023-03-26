@@ -42,7 +42,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "eaeef66044d551eb98b20b5c293d9c396f8342f17bc76bb0822cd90ac56b95bb"
+hash = "5b55762b678094a36f95f5f940e7c9c09543045ca3b1be5edec4e373e0387cab"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6d8f457e49c2a578262d091817b5571897cd73a3bc58db33bac3c60f13d67679"
+hash = "bf041b31e947a9473ad3a349b1ba5f8514bfb2cc2dfaa0f020331228107d83b5"
 metafile = true
 
 [[files]]
@@ -93,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
 metafile = true
 
 [[files]]
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "3a378c86d2ff9d63eb420ef3a0473c9282b29ffb2eef087ce7cde868cef9eff1"
+hash = "32086f66144cb0fe3983463f4eff19e2fa99f9648ad1163d18284694b515b4cd"
 metafile = true
 
 [[files]]
