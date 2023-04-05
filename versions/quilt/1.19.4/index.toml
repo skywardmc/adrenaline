@@ -42,7 +42,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5b55762b678094a36f95f5f940e7c9c09543045ca3b1be5edec4e373e0387cab"
+hash = "901631d9b66ecb1cda0d8a2aa79be0ccbbeeed1e0ef1bddfb31ef3bc196b0e3a"
 metafile = true
 
 [[files]]
@@ -53,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/exordium.pw.toml"
 hash = "f974bd1b21f7b3c9046c4ccaeb8ed1cbd36df72b080c5deff86f8d7f5774ce07"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "979d1295d0c4d7497bb4f34fb85316ef331f2c4a3dbf12673345e61bef63c1d0"
 metafile = true
 
 [[files]]
@@ -87,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d53ea077dd824788e114ad1b113d413504cb40a8680c28d9b596ad1997c3386d"
+hash = "a0d6bc80ddb30ae38daab5e04d8b1a8066a9f9c51a7f6948f5d755e057c7bd84"
 metafile = true
 
 [[files]]
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "32086f66144cb0fe3983463f4eff19e2fa99f9648ad1163d18284694b515b4cd"
+hash = "b1e7dd85695abd68eb6ac1060ea4d948b6b62683a2d04b67e114442bb295da7d"
 metafile = true
 
 [[files]]
