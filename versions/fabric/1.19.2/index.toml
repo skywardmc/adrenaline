@@ -18,7 +18,7 @@ hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
 [[files]]
 file = "config/fastload.properties"
-hash = "61d20c951eee5418cafbc19c811a82dad1d019a2c86a764209b681bd6319a49a"
+hash = "3f30ae7870ea03e6e058a67613d7c9cf6c5bc0d46a92c65e2d87c801643a472c"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "0d1225c262af125d3251ded259d8b8ecdf372d9335e180b915389ef59a5e45d4"
+hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "87066ad1a766c9f105f5d1c1b8f4d28f81a68f3103f51db9d867170229215ac9"
+hash = "fd0d31c123f53fb70d79e3ac5333dc9178b378c87d46eb0b8f63db324f67fe51"
 metafile = true
 
 [[files]]

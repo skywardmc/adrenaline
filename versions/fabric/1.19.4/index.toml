@@ -18,7 +18,7 @@ hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
 [[files]]
 file = "config/fastload.properties"
-hash = "61d20c951eee5418cafbc19c811a82dad1d019a2c86a764209b681bd6319a49a"
+hash = "3f30ae7870ea03e6e058a67613d7c9cf6c5bc0d46a92c65e2d87c801643a472c"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -42,7 +42,7 @@ hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "901631d9b66ecb1cda0d8a2aa79be0ccbbeeed1e0ef1bddfb31ef3bc196b0e3a"
+hash = "7e96230b1e3edfa2347c17a992bafae0543ba8f82301f118d0b4123cf02d6245"
 metafile = true
 
 [[files]]
@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "513bfafe9cf6262ea520d26d065ea1c192d2fd728a7c88a94aad964bf0da18cc"
+hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "979d1295d0c4d7497bb4f34fb85316ef331f2c4a3dbf12673345e61bef63c1d0"
+hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
 metafile = true
 
 [[files]]
@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bf041b31e947a9473ad3a349b1ba5f8514bfb2cc2dfaa0f020331228107d83b5"
+hash = "48942049da4b13d01d60ede0f153ea9ed1e55317e5ab65423eab316b77dd243f"
 metafile = true
 
 [[files]]
@@ -83,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
-metafile = true
-
-[[files]]
-file = "mods/lazydfu.pw.toml"
-hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
 
 [[files]]
@@ -122,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "b1e7dd85695abd68eb6ac1060ea4d948b6b62683a2d04b67e114442bb295da7d"
+hash = "c407e550a82faa870e6879d2d85208e9662a324c89eada28592660a112f9e3d4"
 metafile = true
 
 [[files]]
