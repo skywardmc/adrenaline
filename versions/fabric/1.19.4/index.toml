@@ -57,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7857d46b41b5c4a2a9a11fd17572a266c633064ac026b72588e0f4afcb296942"
+hash = "3fcfa480ee797c4c520a033f2d4ccc532a0761565e9f2de8011901821c960128"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
+hash = "06848036e814be3439e96936bf20dfa3257385f07d9ed6d9b5d2c45855145db9"
 metafile = true
 
 [[files]]
