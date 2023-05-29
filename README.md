@@ -24,7 +24,7 @@ Adrenaline is a simple **performance modpack** that tries to keep the game as fa
 
 ## 📥 Installation guide
 
-If you would like to install the modpack, go to this page on [the Additive website](https://additive.intergrav.xyz/downloads) (install instructions are the same). After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Additive/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
+If you would like to install the modpack, go to this page on [the Additive website](https://additive.intergrav.xyz/downloads) (install instructions are the same). After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Adrenaline/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
 
 ## 🔥 Performance
 
