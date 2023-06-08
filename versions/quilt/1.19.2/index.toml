@@ -38,7 +38,7 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
 file = "config/vmp.properties"
