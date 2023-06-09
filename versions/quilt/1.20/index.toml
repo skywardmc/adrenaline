@@ -65,8 +65,13 @@ hash = "69cfa6ef4d6dafd9e8bada8564c701b34b1c708ca5a0ebe417ca0657fa424eaf"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
-hash = "97b3b07582f18b6c01d38deccc1e44c90db4e44588940efe5e472ec202a1a33f"
+hash = "21e92010a664ed7c9f4b9d84e48b2e85903dd28049dbebbeb52aad03942f159a"
 metafile = true
 
 [[files]]
