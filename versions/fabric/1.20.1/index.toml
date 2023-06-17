@@ -50,7 +50,12 @@ hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "75652f17208f19e80b705f9c8fa8e3dbb70911d89df52e3bf34447cef288ca75"
+hash = "be694b9cf9d9d2245fb0908c837f129dd9033bfb69ffe49c0e5c9dcecb580a2e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
 metafile = true
 
 [[files]]
@@ -86,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
 metafile = true
 
 [[files]]
