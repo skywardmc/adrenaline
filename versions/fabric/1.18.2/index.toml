@@ -49,11 +49,6 @@ file = "config/yosbr/options.txt"
 hash = "c2ac066c7543e2228d8b2331f993aec6a586f25f988725bf7d555204a2dca330"
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "e4bbedd539a469daf66cf45717ccf5b8d2ba454d7e6b865c3a648fb8c4f80a40"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
