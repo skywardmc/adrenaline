@@ -63,6 +63,11 @@ hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "31713296359c70914a4fc56d32a61f41620af105819f826bbffbb234591d34fe"
 metafile = true
@@ -78,6 +83,11 @@ hash = "da49262a60cebc436b9e4b7f8ab253930029ec5f9c18874a5bf7b55a4b8bc027"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -89,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "b26289a0932399eeccd9e80167963590032bb04a40a52330bcfa218bf2bfda39"
+hash = "3f36737e564906049beb87529db19a44126c2a7717f1b112fc326229295e62d1"
 metafile = true
 
 [[files]]

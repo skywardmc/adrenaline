@@ -54,6 +54,11 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "d26a91a3a457dc46a9d492a1898ccb5f412b80dc093321150051b48da97794fc"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
@@ -71,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "8b204c352fbc477a8591ca32376b004fdabcfacb12b570a7a1826cabd550bb93"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
 metafile = true
 
 [[files]]
