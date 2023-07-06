@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fb8d869693d3235ef75c600f277f57b810aa80ddd6ee2dad3a86cf0d0af230e1"
+hash = "8549f8fdb7d2eb89173efd1f03d750e15d1d984c215d075e83ba59a8e115b5b9"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e6e746d0ac4dd170a8309e7bda19ad05c74d6352c1569f83f4dd01e2980674ff"
+hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
 metafile = true
 
 [[files]]
