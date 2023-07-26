@@ -42,7 +42,7 @@ hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
-hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+hash = "94b8f5236dd7488d6851256816c2edaaaf7224a2be1f7337d554a1eabe475e7f"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8b204c352fbc477a8591ca32376b004fdabcfacb12b570a7a1826cabd550bb93"
+hash = "29459e59f2cf2ef2e26f0923d53efaf4f7714650a25bbc3f65a0d31dc53e8e12"
 metafile = true
 
 [[files]]
