@@ -3,9 +3,6 @@ update-packwiz:
 	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@main
 	clear
 	@echo "Packwiz has been Updated"
-mods:
-	cd versions/fabric && pw batch mr install threadtweak
-	cd versions/quilt && pw batch mr install threadtweak
 export-fabric:
 	-mkdir -p .build/fabric/
 	cd versions/fabric && pw batch mr export

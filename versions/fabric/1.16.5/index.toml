@@ -29,6 +29,10 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
 
@@ -86,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "cfff77a6b3c6fd42810c9e2b10e5243258b4949f3935e9e0708f65aed580360c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6cf72540c65ecc6586c24bb0f7f51f4c8668bafa384c9c762a03d9e69a434860"
 metafile = true
 
 [[files]]
