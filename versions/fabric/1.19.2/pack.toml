@@ -1,6 +1,6 @@
 name = "Adrenaline"
 author = "UltraStorm"
-version = "1.15.1+1.19.2.fabric"
+version = "1.15.2+1.19.2.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "7789a6561aa4391942589355cf3109ee49ec5ab30c69401a775e6666e18844bd"
 
 [versions]
-fabric = "0.14.21"
+fabric = "0.14.22"
 minecraft = "1.19.2"
