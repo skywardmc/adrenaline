@@ -28,7 +28,9 @@ If you would like to install the modpack, go to this page on [the Additive websi
 
 ## 🔥 Performance
 
-Adrenaline can significantly enhance the performance of your game by using various optimization mods and configurations. You can expect faster startup times, quicker world loading, and a very high increase in framerates, with some tests showing a boost of up to 10 times the performance with Adrenaline compared to not having any mods installed.
+Adrenaline can significantly improve the performance of your game by using various optimization mods and configurations. It mainly involves faster startup times and a very high increase in framerates.
+
+I won't compare the performance to other modpacks - mainly because doing accurate benchmarks is quite hard to do with a game like this where there are so many factors to consider. It can also depend on your hardware. I would suggest manually doing a benchmark and see which modpack is best for you.
 
 ## ◽ Keeping it simple
 
