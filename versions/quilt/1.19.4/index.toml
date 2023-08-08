@@ -17,14 +17,6 @@ file = "config/yosbr/config/entityculling.json"
 hash = "bd5d8eaf56e9ddb5196a85a5713db7e213ed88c8895958f33c01464a1cb0a1d3"
 
 [[files]]
-file = "config/yosbr/config/exordium.json"
-hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
-
-[[files]]
-file = "config/yosbr/config/fastload.properties"
-hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
-
-[[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
@@ -74,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "79d1d21e13d99ea72f50dc0d11203b1b7489d34992ace7916b118f69d4322545"
+hash = "65bda31e0649d82ee0dd8dab20fba6219f79cf5a864b9a2c14a8e1e90952c6fc"
 metafile = true
 
 [[files]]
@@ -89,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b638f1036128d53d0d8a42b842c1a06ba6b22fdcec725701bf6229cfd6233b55"
+hash = "6d7cd27a77ee46fce01732624c841e0c2a1a0335d5653df8643b16bb42a01497"
 metafile = true
 
 [[files]]
