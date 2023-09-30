@@ -40,9 +40,9 @@ I do have a modpack called [Additive](https://modrinth.com/modpack/additive) tha
 
 ## 🛡️ Open-source
 
-At its core, Additive is entirely composed of open-source mods, ensuring that you have the assurance of being able to view their source code and even contribute to them. We strongly encourage you to show your support for the creators and contributors of these mods, as this project would not be possible without their invaluable contributions.
+At its core, Adrenaline is entirely composed of open-source mods, ensuring that you have the assurance of being able to view their source code and even contribute to them. We strongly encourage you to show your support for the creators and contributors of these mods, as this project would not be possible without their invaluable contributions.
 
-Furthermore, the Packwiz project for Additive is also publicly available on our [Git repository](https://github.com/skywardmc/additive). This means that you can easily track and observe every change made to the project, report issues or request new features through our [issue tracker](https://github.com/skywardmc/additive/issues), or effortlessly create your own forks of the project. This commitment empowers you to actively engage with Additive's development and contribute to its ongoing improvement.
+Furthermore, the Packwiz project for Adrenaline is also publicly available on our [Git repository](https://github.com/skywardmc/adrenaline). This means that you can easily track and observe every change made to the project, report issues or request new features through our [issue tracker](https://github.com/skywardmc/adrenaline/issues), or effortlessly create your own forks of the project. This commitment empowers you to actively engage with Adrenaline's development and contribute to its ongoing improvement.
 
 ## ✅ Compatibility
 
