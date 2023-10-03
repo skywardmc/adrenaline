@@ -56,7 +56,7 @@ My goal is to keep Adrenaline up-to-date with the latest Minecraft releases, pro
 
 ## ⚙️ How it works
 
-Adrenaline utilizes a variety of optimization mods that are designed to work seamlessly together. Many of these mods have been adjusted to provide improved performance beyond their standard settings, and this has proven to be effective. It's important to note that, compared to some other modpacks, Adrenaline may be more aggressive in its optimizations and can sometimes result in instability. However, these instances are rare and the overall result will be an improvement in performance compared to other modpacks.
+Adrenaline utilizes a variety of optimization mods that are designed to work seamlessly together. Some of these mods have been adjusted to provide improved performance beyond their standard settings, and this has proven to be effective.
 
 ## 🐛 Reporting Issues
 
