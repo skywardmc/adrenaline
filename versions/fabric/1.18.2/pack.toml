@@ -1,6 +1,6 @@
 name = "Adrenaline"
 author = "UltraStorm"
-version = "1.17.0+1.18.2.fabric"
+version = "1.17.1+1.18.2.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
