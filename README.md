@@ -38,9 +38,15 @@ Adrenaline is created with the sole purpose of optimizing the game's performance
 
 I do have a modpack called [Additive](https://modrinth.com/modpack/additive) that is based on Adrenaline, designed to be an open-source alternative to OptiFine. Feel free to check it out!
 
+## 🛡️ Open-source
+
+At its core, Adrenaline is entirely composed of open-source mods, ensuring that you have the assurance of being able to view their source code and even contribute to them. We strongly encourage you to show your support for the creators and contributors of these mods, as this project would not be possible without their invaluable contributions.
+
+Furthermore, the Packwiz project for Adrenaline is also publicly available on our [Git repository](https://github.com/skywardmc/adrenaline). This means that you can easily track and observe every change made to the project, report issues or request new features through our [issue tracker](https://github.com/skywardmc/adrenaline/issues), or effortlessly create your own forks of the project. This commitment empowers you to actively engage with Adrenaline's development and contribute to its ongoing improvement.
+
 ## ✅ Compatibility
 
-Adrenaline is designed to be compatible with a wide range of devices, even those with very low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and Mac. Additionally, Adrenaline is much more compatible with other mods as compared to OptiFine, thanks to its more flexible design and native compatibility with Fabric.
+Adrenaline is designed to be compatible with a wide range of devices, even those with very low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and Mac. Additionally, Adrenaline is much more compatible with other mods as compared to OptiFine, thanks to its more flexible design and native compatibility with Fabric
 
 ## 🔄️ Updates quickly
 
@@ -50,7 +56,7 @@ My goal is to keep Adrenaline up-to-date with the latest Minecraft releases, pro
 
 ## ⚙️ How it works
 
-Adrenaline utilizes a variety of optimization mods that are designed to work seamlessly together. Many of these mods have been adjusted to provide improved performance beyond their standard settings, and this has proven to be effective. It's important to note that, compared to some other modpacks, Adrenaline may be more aggressive in its optimizations and can sometimes result in instability. However, these instances are rare and the overall result will be an improvement in performance compared to other modpacks.
+Adrenaline utilizes a variety of optimization mods that are designed to work seamlessly together. Some of these mods have been adjusted to provide improved performance beyond their standard settings, and this has proven to be effective.
 
 ## 🐛 Reporting Issues
 
