@@ -1,13 +1,13 @@
 name = "Adrenaline"
-author = "UltraStorm"
-version = "1.17.2+1.20.1.quilt"
+author = "SkywardMC"
+version = "1.17.3+1.20.1.quilt"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "08cf41d558714e9483b1ffd115a674d1185ae52932f72de0e0df8b5de314ac30"
+hash = "6f1f7921a8b6f16aaed5b6509427d4327e26fbe158fd1cb459f93bbbe0bcabee"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.21.1"
+quilt = "0.22.0"
