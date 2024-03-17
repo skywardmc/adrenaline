@@ -50,7 +50,9 @@ Adrenaline is designed to be compatible with a wide range of devices, even those
 
 ## 🔄️ Updates quickly
 
-My goal is to keep Adrenaline up-to-date with the latest Minecraft releases, providing tested builds as soon as possible. Although the maintenance of the pack is solely done by me, I will make every effort to release updates promptly. However, please note that there may be some delays due to my limited time and motivation.
+My goal is to keep Adrenaline up-to-date with the latest Minecraft releases, providing tested builds as soon as possible. Although the maintenance of the pack is solely done by me, I will make every effort to release updates promptly.
+
+Currently, Adrenaline follows what Sodium does for releases - a set LTS version and the latest Minecraft version.
 
 **➡️ Note:** This does not apply to snapshots most of the time. I do not bother as they can sometimes require lots of maintenance and come out too quickly. If I recall correctly, [Simply Optimized](https://modrinth.com/modpack/sop) sometimes has updates for snapshots, so feel free to check that out if you really need them.
 
@@ -67,8 +69,7 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [
 For a few frequently asked questions, please visit the [wiki](https://github.com/intergrav/Adrenaline/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
 
 ## 🍉 Sponsor
+
 Need a fast, reliable Minecraft server? Use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
 
 [![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
-
-> *This description was copied from the [Modrinth page](https://modrinth.com/modpack/adrenaline). It may not be formatted correctly.*
