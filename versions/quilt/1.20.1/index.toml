@@ -74,6 +74,10 @@ file = "mods/moreculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 metafile = true
 
