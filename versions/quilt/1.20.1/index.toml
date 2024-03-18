@@ -1,9 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/c2me.toml"
-
-[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 
 [[files]]
