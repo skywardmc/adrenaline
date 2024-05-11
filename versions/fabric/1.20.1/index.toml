@@ -41,6 +41,11 @@ file = "config/yosbr/options.txt"
 hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
