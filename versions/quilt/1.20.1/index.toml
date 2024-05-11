@@ -91,6 +91,11 @@ hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
 metafile = true
