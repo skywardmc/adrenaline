@@ -10,4 +10,4 @@ hash = "751876a8d00d1b6b6e199a0887388044ab8dd5d7b6aec0736d36281860816624"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.25.0"
+quilt = "0.26.0"
