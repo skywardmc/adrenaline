@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "49c2396331e4dfdcc9dcd6298e8c9215978a545245fe69469475748eec849ee8"
+
+[[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
 hash = "e94813034405ef213afd650f1c7e9ff454a04435a8b72a74a73d470db41f5abc"
 
@@ -98,16 +102,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "fc3b3d32f3f0dfc641237b76e5e2a5b196a59eb9dc2d5a65e03d67200cc86f34"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "9d790daf7f139be1a7e771b7d70e4de5fcc5b3a4212b9dd7aa0ada308fa1c9fd"
 metafile = true
 
 [[files]]

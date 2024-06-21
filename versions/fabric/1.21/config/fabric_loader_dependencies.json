@@ -1,0 +1,15 @@
+    {
+      "version": 1,
+      "overrides": {
+        "cull-less-leaves": {
+          "-depends": {
+            "minecraft": ""
+          }
+        },
+        "threadtweak": {
+          "-depends": {
+            "minecraft": ""
+          }
+        }
+      }
+    }
