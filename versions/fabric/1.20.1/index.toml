@@ -29,6 +29,10 @@ file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 
 [[files]]
+file = "config/yosbr/config/servercore.toml"
+hash = "4f5cd08148f87464a0f5e471787fd609a6546b653845954598e5a240b938a32d"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "6555c8c1fc4d773df097895dfb76fe004377347581d5731f5408fb9d138585a2"
 
@@ -37,12 +41,21 @@ file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7294ffad8e498fe330bf6c367988e5a21be1a6568f33dcbc5d2583bba882aba2"
 metafile = true
 
 [[files]]
@@ -91,6 +104,11 @@ hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "c56ddfdfccf143c8c6b5b93e9555d1c2d80ff7c1bdacd91dfede65785fa686b0"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -106,6 +124,11 @@ hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "e78eab05d2bb55861865917d0caf1153ed4b631a4376a4c075d051162151c22a"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
@@ -113,6 +136,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "ff2f782be8090072041d0cd00abed11c1a22dfe2d397cd73e042f3b449954588"
 metafile = true
 
 [[files]]
