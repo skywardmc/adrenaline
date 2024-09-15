@@ -69,9 +69,8 @@ hash = "8fb1d7b9c4c090b7c96ab7e4b6408ca39f33e0aedfbb4615d1c3aa84c9f0aea9"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
-metafile = true
+file = "mods/enhancedblockentities-0.10.1+1.21.jar"
+hash = "bb8500024f2fd5f6ab09b6c48661d80783eb25f9c8b41bade242f84e21432b75"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
