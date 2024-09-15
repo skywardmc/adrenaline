@@ -1,6 +1,6 @@
 name = "YetAnotherConfigLib"
 filename = "YetAnotherConfigLib-3.5.0+1.20.1-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/gQuF6HNa/YetAnotherConfigLib-3.5.0%2B1.20.1-fabric.jar"
