@@ -20,6 +20,8 @@
 
 Adrenaline is a **client-side** and **server-side** modpack comprised of the **best combination of mods** (e.g. Sodium and Lithium, along with many more) that significantly improves rendering performance, logic performance, memory usage, and more - all without compromising on the game's vanilla looks and features! It is designed to be simple and not include any quality-of-life mods, along with not including redundant performance mods. Because of this simplicity, the modpack is compatible with a very wide range of devices and can be updated to the latest versions very quickly. Want more features? No problem! Adrenaline serves as a great foundation for performance - simply add your favorite mods on top.
 
+For the list of mods that are included, see this [wiki page](https://github.com/skywardmc/adrenaline/wiki/Performance-features). Adrenaline can be installed on both clients and servers, so this list tells you what is installed depending on the environment.
+
 # 📥 Installation Guide
 
 **Please be sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) section on the wiki before installing Adrenaline. It contains some important instructions on preventing crashes and other performance issues.**
@@ -134,6 +136,8 @@ If you are running this server through a batch file or shell script, you can add
 ### 🚀 Improve performance
 
 Adrenaline aims to significantly improve rendering and game logic performance, along with memory and hardware usage, without compromising on the game's looks or features in any way. This is done with various optimization mods that are actively tested for stability and improvement. Some mods are also pre-configured. Adrenaline wouldn't exist without projects like [Sodium](https://modrinth.com/mod/sodium), so I advise you to donate to mod authors and contributors if you can.
+
+For the list of performance mods that are included, see this [wiki page](https://github.com/skywardmc/adrenaline/wiki/Performance-features). Adrenaline can be installed on both clients and servers, so this list tells you what is installed depending on the environment.
 
 ### 🪶 Stay lightweight
 
