@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ea19b1107116812eafd7cae204fdef497a35ee8694bfb135afa7bb2ed186011b"
+hash = "1d3d810fb49f6b74078abfb8aa2816715cc2840ba6324c9fcabff984b9b72412"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "bc7a34b2b5610018b22755207db351d098cb6f2410a21ea8bdab040919306626"
+hash = "69c489a374e64efb220a98611388233bc1b923ac14006786ac055574cd66e214"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "8543fab0d89a4e290ed2a9d7eaf3aa874914c036fadfec18eb61ae634b6fb193"
+hash = "a3858032c4cd3b1ae02c17a90cc0a377a61ac54fad984f3228a71dc24991367d"
 metafile = true
 
 [[files]]
