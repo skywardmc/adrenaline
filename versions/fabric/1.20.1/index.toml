@@ -50,7 +50,7 @@ hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
+hash = "6c5a2fc560751c90dd40b0be4a28c9271aea8d2cf2d5c59cbfa3014e53dbfea6"
 metafile = true
 
 [[files]]
@@ -65,12 +65,12 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c960fea61530e238b42b5d00a7a4c8aa8ff7ef342efa829accb07291122cd8c7"
+hash = "b57e845b9447b543bb6d0f7f87c61fc35424d2cc9be6a87eb6561685b4d5415f"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "50c6faa614dd688541639cca775e7fe9355020c6fe3c3df0998e360039a2038f"
+hash = "1a0ca5ccdd3c2a5ab50bd98910168b5050b8bbcfb6d461ba5b2f208cfb13b1b0"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6bf9f03bf699c1e257fb9e19bba9ac7830d808ca436fbd87442ce0e2cfb8bf83"
+hash = "59ad9368b47a15f1bbf5389597dd698e487fcbcdfcc3f794a090cb810df3d72d"
 metafile = true
 
 [[files]]
