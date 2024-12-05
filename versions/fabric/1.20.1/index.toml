@@ -50,7 +50,7 @@ hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "6c5a2fc560751c90dd40b0be4a28c9271aea8d2cf2d5c59cbfa3014e53dbfea6"
+hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b57e845b9447b543bb6d0f7f87c61fc35424d2cc9be6a87eb6561685b4d5415f"
+hash = "8718c1de38f03334743dd2c041d50b8643387f8b4a70a12d9f542f5931825b0a"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "80e4754f033925c32159a9e54a5d2a7f6b643dc1cc71ddc136766e6e2025b3cf"
+hash = "bc7d8253f56d74d7cde9b4e8fa0a99f967dc7165d564c959e138f23db3559426"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1a0ca5ccdd3c2a5ab50bd98910168b5050b8bbcfb6d461ba5b2f208cfb13b1b0"
+hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "be3e8357614fde57b98700cce139b1b3473018fedcec59102a898d61057c1a4a"
+hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "e78eab05d2bb55861865917d0caf1153ed4b631a4376a4c075d051162151c22a"
+hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "59ad9368b47a15f1bbf5389597dd698e487fcbcdfcc3f794a090cb810df3d72d"
+hash = "b21a0febb87b7d8aa954a912d1ea26b572c1f512e0564a97595ca8f204ce7e7c"
 metafile = true
 
 [[files]]

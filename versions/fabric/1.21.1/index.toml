@@ -50,12 +50,12 @@ hash = "2be2b5c10139cacd044848f7ecc86e345ae2d7ae855baeeb1e8e87b4342194eb"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "515e6bb16a175b9d23a85e9d4ea1c00145d3b85ccb44dc3d8762209538b5c3ba"
+hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bf75504007b250a62184fe13409e68fed230d0404b7ecec86f1bc75d9da26203"
+hash = "3eb41b1aa6c9cced63bf89e6e3d89af3f47fcc59f964cd4e28d7d9e862c82b6e"
 metafile = true
 
 [[files]]
@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "9e987ca790ae39c1897b96b29fee74907e76282dd8ecd015c66e5ad35a814c02"
+hash = "de3c6b57292ba33f190ac6e31b23c3611f3376c5c2a4d5f4e79cd2ccdcb11471"
 metafile = true
 
 [[files]]
@@ -75,12 +75,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5482cae1938340245adfcc540e2dd856d16dedf5f665d17c597e7ad363ffc194"
+hash = "4f887cad340b79a36fced9ebf72e10eadea29d428087d97125c06067f41e2645"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "43d7fd09553ecf35b07ce2fe7958eaf4947b8fe4219afa25c99e42cea75fcfab"
+hash = "c0bb895f2240522cc6f20afb9ef46293d9b689b8d46839364350e5b0682bac4b"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "20a941f234eb3182ddf55862ecfc9b5f24911a27e88310f2a127dd0e8d675008"
+hash = "88a820c55f782886fbb3d063b1db33d89c924012b20554cd5aec3d27f3ce1819"
 metafile = true
 
 [[files]]
@@ -100,12 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
+hash = "9063468d0321798591d5e83044d7e841538b0a6ce8e38a78d415a2461708f45f"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c60d088f476eb37e15d88a762591d39874a99d80c729da813e0f4951e2906d16"
+hash = "d795ac4bc7321d5b9defa33eaba9e03b5fa38b8345d827417d9366913567cb67"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6c1e39822b75339afddef8504a135345c119de71004ca135c442eeea4088d475"
+hash = "b5fa54d30435d38adbbb1918f59a30836783f4cc5fdd55388b80006ceabf3afe"
 metafile = true
 
 [[files]]
@@ -135,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "f8e0e3a4bc7a85fa6563ff71de3d60d7c67cb2bdc600bee410974a685673e606"
+hash = "ca32a70be2442902d948ea7180ab010a0bf7816e7758b93c1936ca2f814c1a33"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "481ee07891029ab927064d9b9aef897b6c4bcde3e0882d8407adf2794a8745ef"
+hash = "190d9fd976e99bbb9ba1b52198baf70244756f21d39ff6ba91c235583a0d1209"
 metafile = true
 
 [[files]]
