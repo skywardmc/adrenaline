@@ -54,7 +54,7 @@ mrpack-install adrenaline [optional version number]
 🐋 Install using Docker Compose
 </summary>
 
-> It may be a good idea to have some knowledge on using Docker before doing this.
+> It's a good idea to have some knowledge on using Docker before doing this.
 
 1. Make sure you have Docker Engine installed properly according to the [Docker docs](https://docs.docker.com/engine/install)
 2. Create a new directory
@@ -81,7 +81,7 @@ services:
       # Server properties
       VIEW_DISTANCE: 8
       SIMULATION_DISTANCE: 5
-      SYNC_CHUNK_WRITES: false
+      SYNC_CHUNK_WRITES: false # having this set to false will significantly improve performance but may cause desync issues and (extremely rare) data corruption. set to true if you don't have a backup system
     volumes:
       # Attach the relative directory 'data' to the container's /data path
       - ./data:/data
@@ -106,6 +106,22 @@ After initializing and importing the mrpack, run `mcman build` to build the serv
 
 <details>
 <summary>
+💿 Install using mrpack4server
+</summary>
+
+See the [mrpack4server](https://github.com/Patbox/mrpack4server) Git repository for installation info. `modpack-info.json`:
+
+```json
+{
+  "project_id": "adrenaline",
+  "version_id": "version id or name"
+}
+```
+
+</details>
+
+<details>
+<summary>
 🧙 Install using packwiz-installer
 </summary>
 
@@ -125,21 +141,21 @@ java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githack.com/i
 
 If you are running this server through a batch file or shell script, you can add this command before your server's launch command and it should work just fine.
 
-*Having trouble? Check out the [packwiz wiki](https://packwiz.infra.link/tutorials/installing/packwiz-installer/#using-a-modpack-with-a-server) and, if that doesn't help, ask in the [packwiz Discord server](https://discord.gg/DcSkRF4).*
+_Having trouble? Check out the [packwiz wiki](https://packwiz.infra.link/tutorials/installing/packwiz-installer/#using-a-modpack-with-a-server) and, if that doesn't help, ask in the [packwiz Discord server](https://discord.gg/DcSkRF4)._
 
 </details>
 
 </details>
 
-# 🎯 Goals
+# ⭐ Features
 
-### 🚀 Improve performance
+### 🚀 Major performance improvement
 
 Adrenaline aims to significantly improve rendering and game logic performance, along with memory and hardware usage, without compromising on the game's looks or features in any way. This is done with various optimization mods that are actively tested for stability and improvement. Some mods are also pre-configured. Adrenaline wouldn't exist without projects like [Sodium](https://modrinth.com/mod/sodium), so I advise you to donate to mod authors and contributors if you can.
 
 For the list of performance mods that are included, see this [wiki page](https://github.com/skywardmc/adrenaline/wiki/Performance-features). Adrenaline can be installed on both clients and servers, so this list tells you what is installed depending on the environment.
 
-### 🪶 Stay lightweight
+### 🪶 Lightweight
 
 I only pick the combination of mods that work best with eachother, and don't include performance mods that aren't necessary or often break compatibility with other mods or device hardware. I also don't include any quality of life mods in the pack for the sole purpose of keeping it simple and flexible. This simplicity allows you to very easily build your own modpacks based on Adrenaline, or simply install Adrenaline and play with your favorite mods.
 
@@ -161,7 +177,7 @@ Android devices that use OpenGL translation layers (such as GL4ES, ANGLE, etc) a
 
 If you are running into problems, you should make sure that your graphics drivers are up-to-date. I also recommend taking a look at [this page](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) on the Sodium wiki.
 
-*The majority of this was taken from Sodium's hardware compatibility section. I'll update this accordingly if anything is changed.*
+_The majority of this was taken from Sodium's hardware compatibility section. I'll update this accordingly if anything is changed._
 
 # 🐛 How to Report Issues
 
@@ -173,8 +189,6 @@ For a few frequently asked questions, along with tons of other information, cons
 
 # 🍉 Sponsor
 
-Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
+Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my client/server performance pack [Adrenaline](https://modrinth.com/modpack/adrenaline) to improve your server's optimization while still allowing vanilla clients to join.
 
 [![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
-
-*Adrenaline's description is heavily inspired by [Sodium](https://modrinth.com/mod/sodium)'s description and also includes some information from them. Description last updated: March 25, 2024*
