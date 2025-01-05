@@ -69,11 +69,6 @@ hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "91f0f362b62cb49dd70f3effff7b0b813a01a99ccb272abb36f385c41ff931c4"
 metafile = true
@@ -104,11 +99,6 @@ hash = "0d50516f7ba174f3bc8fb4c12e1200d82649ca5e3b3f42de408d420bfa13fd2d"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "a21dbd676882b344c8d7158e234f19d380598eb1b63492a34bd75dddc42cfedd"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "03b88e6c07796d391b9ea91b68af2a0bc3bf66b87d7f1faa298d581be40cc365"
 metafile = true
@@ -121,11 +111,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e43454084839b810fa0fbc9a5193fca1d72470ecbc06d2138538306f08cb2849"
-metafile = true
-
-[[files]]
-file = "mods/sodiumleafculling.pw.toml"
-hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
 metafile = true
 
 [[files]]

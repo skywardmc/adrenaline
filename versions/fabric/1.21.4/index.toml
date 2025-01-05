@@ -69,11 +69,6 @@ hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "bfa17fc53b5b8d7cfb09ed49661e038864e9f89d79c7378377ecd3aea471d7b5"
 metafile = true
@@ -121,11 +116,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
-metafile = true
-
-[[files]]
-file = "mods/sodiumleafculling.pw.toml"
-hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
 metafile = true
 
 [[files]]
