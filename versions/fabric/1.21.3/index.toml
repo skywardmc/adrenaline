@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0bacd265b682a6f3cf480449af87fbac592033a158b0669fa78c23f27ec2fdb0"
+hash = "fe5df59a6fb97272167806b65192eb0ba971da4c718e4130c44de122c758851f"
 metafile = true
 
 [[files]]
@@ -66,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "61d64eadda8079ccd7c906a3b5143ab5b9b3716918c775dad2d3d59dfbe7bb41"
 metafile = true
 
 [[files]]
@@ -85,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c79a98c5013dd8f1e219043aef5d77a969f9703455c5d4ca50e366ba943d0295"
+hash = "5379ad762b06cadda63287e5afec87a4c70b8369b97af9096ab1f24477b6de7f"
 metafile = true
 
 [[files]]
@@ -95,7 +100,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "0d50516f7ba174f3bc8fb4c12e1200d82649ca5e3b3f42de408d420bfa13fd2d"
+hash = "da82ef9cb9353b9ff2701172e56618a60a357bfee92d1c97a875a5d835a6cdc9"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6be9bf8af4c867d6cc7c680df870e2b878fbec4090160f3df3a8426c61216472"
 metafile = true
 
 [[files]]
@@ -110,7 +120,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e43454084839b810fa0fbc9a5193fca1d72470ecbc06d2138538306f08cb2849"
+hash = "063756db96c81916d61a31c9ff7ae494e4d7f4cc6be3753cc251a4f77cb0643f"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
 metafile = true
 
 [[files]]
@@ -120,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "80f50873bae102f72d50483a54c1e4dcdf310ee7e7fbb6d48f90137b24d23124"
+hash = "58c228419129120ffe14b85a5f154de00fdc6be96db8c60373ee5b6f11d261b2"
 metafile = true
 
 [[files]]

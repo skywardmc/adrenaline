@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7294ffad8e498fe330bf6c367988e5a21be1a6568f33dcbc5d2583bba882aba2"
+hash = "62c99a9cf83e5f6ae2c701bafe09b12b31c59d215194d56c7bb9e7ef6f291928"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
+hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
 metafile = true
 
 [[files]]
@@ -110,12 +110,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
+hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
 metafile = true
 
 [[files]]
