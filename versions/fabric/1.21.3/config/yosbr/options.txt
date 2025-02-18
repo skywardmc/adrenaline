@@ -1,2 +1,2 @@
-simulationDistance:5
+simulationDistance:8
 onboardAccessibility:true
