@@ -54,12 +54,12 @@ hash = "2299e914f3c3570ea6d0720ce58078396ad21f730c8db3152ce27e9513c48cb5"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "1e59464196bd2a0cb5dcc4eb6014e323982e993c68c0f0173ff95b58ceed366e"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "db16cd34b809cd98e78bf47cd03c8071d71b2b6c4c5e26ef5efed363207bbed2"
+hash = "81e6a91f5122dd5f875cc024b551d671ab20e9706ecf1a1c5528541a9eeb7d74"
 metafile = true
 
 [[files]]
@@ -69,17 +69,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "34ef3b2634e0c8466530e488cc024ea95dfcf70d378599aa8c8b54d901bff0c5"
+hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8d27571711f951c6d5e23eed5c15c48bf7cf7347a3c03ff396ef4a2fb2baa90f"
+hash = "bf96f5dcb178faa5d0d7794e2c8a8daadf5aaf1766dc93168b9765491d04e4f0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5b6cadef65019131a6e7d362b81bb25871330db67ef6c6b1d552e1fbd975e3be"
+hash = "eec54c8310038eaf8625ace2ab01e8ca6b1ce68b0e6a051835cf2faf324478c6"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "e9b1a059e78cb42dbc46c30f7b16d28b1bb0df20f85f53d28992ea278214a511"
+hash = "97779d44979306317665a9262c384563a807555a6084112f6859404c85dba5cd"
 metafile = true
 
 [[files]]
