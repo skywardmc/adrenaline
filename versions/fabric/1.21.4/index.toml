@@ -74,12 +74,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "bf96f5dcb178faa5d0d7794e2c8a8daadf5aaf1766dc93168b9765491d04e4f0"
+hash = "4eb9390fd0f9c716ee697e11bea676f8c895ad7f9174d83c0d1489e88ae274f5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
+hash = "b2f2ef63febe17f277635827ca474e1aeae321e8a82bef78942116f95d00250a"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "b661bb2e2b1eb8634483de7abe76e45cb67d63ef9855670a9034ad080583e84f"
+hash = "d351759a4216ab5f3e41e7cd7f1183be2afbaeb72279f73b76046095b235da27"
 metafile = true
 
 [[files]]

@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "4ee167921e8e8adf551e78dd82b7b0acf6e75e9fdcf146daf2efc15269aa814e"
+hash = "35c11085ac0985ebc63242e3544b16f7d06efa6d4d9beec3be96b14869ec9921"
 metafile = true
 
 [[files]]
@@ -74,12 +74,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "8ccbbc90eb037c9b721bc148bda7472e8cb0dd682593382c95aa8c2a58c23412"
+hash = "7c4546596b6fd83100cc63703a9da38c425f72e2f7753f3c64e92a79edb2bf8b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
+hash = "603e4d77cd5ee641515822d3319bf86b09f03671628e705cdf2f93af95f9214f"
 metafile = true
 
 [[files]]
@@ -103,8 +103,13 @@ hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "4e1dd52be6541751029a370a02c83cc663a8be8b62187a4aa273ca02a154fc37"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "3074160fa74a2b936b1908c5749c193331e38e52bb95b2b51f62a4268cfd44da"
+hash = "2fcaca5d2f4e2e62d6a14bbfe3f348ceb0487140f2cb414c243fa7e2484b2e0b"
 metafile = true
 
 [[files]]
