@@ -113,8 +113,8 @@ See the [mrpack4server](https://github.com/Patbox/mrpack4server) Git repository 
 
 ```json
 {
-	"project_id": "adrenaline",
-	"version_id": "version id or name"
+  "project_id": "adrenaline",
+  "version_id": "version id or name"
 }
 ```
 
