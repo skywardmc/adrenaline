@@ -54,7 +54,7 @@ hash = "2299e914f3c3570ea6d0720ce58078396ad21f730c8db3152ce27e9513c48cb5"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "1e59464196bd2a0cb5dcc4eb6014e323982e993c68c0f0173ff95b58ceed366e"
+hash = "284a7ccf2dc6ff43378230c252323359634f2b566212924ad0f138f4203079c6"
 metafile = true
 
 [[files]]
@@ -74,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4eb9390fd0f9c716ee697e11bea676f8c895ad7f9174d83c0d1489e88ae274f5"
+hash = "56f606d60928596e8fc3aedb55f73704738ac4f67c881d8bf6016b4991984d11"
 metafile = true
 
 [[files]]
@@ -89,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "eec54c8310038eaf8625ace2ab01e8ca6b1ce68b0e6a051835cf2faf324478c6"
+hash = "c77d1172ce556528082c3dc4b6abe0d5d6b602d8a58fe3118cc7178610210149"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "97779d44979306317665a9262c384563a807555a6084112f6859404c85dba5cd"
+hash = "c1db2ff822b1aa96dbf8642d73c5811d06669855a9de0fef60828c189fb7c4a6"
 metafile = true
 
 [[files]]
