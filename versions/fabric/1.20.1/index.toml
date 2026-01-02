@@ -50,7 +50,7 @@ hash = "2299e914f3c3570ea6d0720ce58078396ad21f730c8db3152ce27e9513c48cb5"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "7a266a082b54627e5f95aa154871114fded8c0a06af104e49cf08668b869cfad"
+hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c3be690553bff20444117d943835168fa4d2b2c5b24fc2bbd1b797b02d55485a"
+hash = "8c2a98f8b3b60e2acc09997628d5ff7fdc7487e38d644a2cdf371b8fb4bfb743"
 metafile = true
 
 [[files]]
