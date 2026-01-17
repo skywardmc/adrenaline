@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
+hash = "1adccdf12bf5475db4651b96574f9147fa5253e7c0116fffe02ab43b35261aff"
 metafile = true
 
 [[files]]
@@ -99,6 +99,11 @@ hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "84ca48611902643c3934139e0dce480294b2f2e891cf797fede0607d5b9f6dfa"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "4e8594e405f040e73813e5dbb0eb0d5f0f326f8ba07b27f2e8698b22598aa94e"
 metafile = true
@@ -120,10 +125,15 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "967a290b70e7d62aaf2098c4975cf34532cd1edc56e80abd2d580c327922db8d"
+hash = "c36512d6628d41a3a9c16bb535550d42f43dee2bbaea86ca294d922986c6e42c"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "a6c590b2e93be7bc5a0f4d4f5511c257edf4236ef7245a824b5e615e7d85b384"
 metafile = true
