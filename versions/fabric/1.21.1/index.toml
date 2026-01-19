@@ -109,11 +109,6 @@ hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fe940e70dad29aa8b5e57d9679d7503009d56b1890dbc25194b4d278cbfaae5e"
 metafile = true
@@ -151,4 +146,9 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "21949d4c8ec3c12af60e4fe99dbec55d8840d6d70f065d5b0fff723a8ab01b01"
 metafile = true
