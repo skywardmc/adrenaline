@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "1adccdf12bf5475db4651b96574f9147fa5253e7c0116fffe02ab43b35261aff"
+hash = "0cadf1632a675a92e0bbfb060e807c07595bda05526da8a361d782878b510e6b"
 metafile = true
 
 [[files]]
@@ -85,12 +85,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "186a261ded1911abf559dce21b22eadc1e96de7767982e58f458b82a89a924ba"
+hash = "19b5a6351ca8f850ddb22e07cdae9d83138aaff17a75b21c88b6e0a2b4fb530a"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "77364cc74f5c0819ef77e5e2fd11bd304ad98dc193348d3d875e23fae62f8f74"
+hash = "db46aeba51086f72e755106ca1a2196717ddb3844dfd7b781e7a93c57a9d5b32"
 metafile = true
 
 [[files]]
@@ -140,5 +140,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "fef0dfb7d26f7dd8a4f0ff10635853d4a410a4b058fef250d029a95b258694b8"
+hash = "5380963b0d14f7af979e64a40e48cbb94603c7b16cbd47229327304bca30ab7e"
 metafile = true

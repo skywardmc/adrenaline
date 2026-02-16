@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7c9d9ae612abbb7593b3d5b8306442b87c381fa38efbef2fcbf17e8669552cdc"
+hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
 metafile = true
 
 [[files]]
@@ -80,17 +80,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "446f8047ee9168b65fe9d4600f82cb915c7aa0d0f049a344177ba340a5b93a8a"
+hash = "49884f2d7db0e731facf0aa70cf2038dd513624c450cba773a8ca7a47e53953b"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "37e14a7a0b033feafd7fc1cb82842c128b1b2f2053dd1d11206834d7fcc6f597"
+hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5564dbbe8adc0ba450afc6a1c3eef82f183a53ede5f3b1de0bc6ca320aadc5e9"
+hash = "f7cda152847b85f770b5130db1e1569b5b86ddf09d399377d7133365922a0e08"
 metafile = true
 
 [[files]]
@@ -150,5 +150,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "21949d4c8ec3c12af60e4fe99dbec55d8840d6d70f065d5b0fff723a8ab01b01"
+hash = "a9b1b0bf95c89f2234ed4a19154f7ee6151cc3c57cbc3ce2a2d95eff06db5e60"
 metafile = true

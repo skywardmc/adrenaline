@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d1239fb872fc0765dcedf2a0e46dc61674729acb834511bb175ef17760ac8040"
+hash = "1cce22b9d322f625a5bbe720e500afc3270e37d487691313079d3213905ef1cb"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d9d01681616a8bdb45bbdd0a053b87153bbb77a5ef997325be0b3dc10b7f8979"
+hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
 metafile = true
 
 [[files]]
@@ -151,4 +151,9 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "f2ee5cbda5d608b69fb84bcaa51c09618e444cda85f84fdcb27835e53079fa36"
 metafile = true
