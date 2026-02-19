@@ -5,7 +5,7 @@
   <br />
   <br />
   <p align="center">
-    Leading, lightweight, and unbiased performance modpack with no QoL features
+    Leading, lightweight performance modpack with no QoL features. Designed for clients and servers
     <br />
     <a href="https://github.com/intergrav/Adrenaline/wiki">Explore the wiki</a>
     ·
