@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/intergrav/Adrenaline">
+  <a href="https://github.com/skywardmc/Adrenaline">
     <img src="https://raw.githubusercontent.com/intergrav/Branding/main/adrenaline/adrenaline_textlogo_256h.png" alt="Logo" height="90">
   </a>
   <br />
@@ -7,11 +7,11 @@
   <p align="center">
     Leading, lightweight performance modpack with no QoL features. Designed for clients and servers
     <br />
-    <a href="https://github.com/intergrav/Adrenaline/wiki">Explore the wiki</a>
+    <a href="https://skywardmc.org/adrenaline">Explore the wiki</a>
     ·
-    <a href="https://github.com/intergrav/Adrenaline/issues">Report Bugs</a>
+    <a href="https://github.com/skywardmc/Adrenaline/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/intergrav/Adrenaline/issues">Request Features</a>
+    <a href="https://github.com/skywardmc/Adrenaline/issues">Request Features</a>
   </p>
   <a href="https://modrinth.com/modpack/adrenaline"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
   <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
@@ -19,13 +19,15 @@
 
 Adrenaline is a **client-side** or **server-side** modpack comprised of the **best combination of mods** (e.g. Sodium and Lithium, along with many more) that significantly improves rendering performance, logic performance, memory usage, and more - all without compromising on the game's vanilla looks and features! It is designed to be simple and not include any quality-of-life mods, along with not including redundant performance mods. Because of this simplicity, the modpack is compatible with a very wide range of devices and can be updated to the latest versions very quickly. Want more features? No problem! Adrenaline serves as a great foundation for performance - simply add your favorite mods on top.
 
-For the list of mods that are included, see this [wiki page](https://github.com/skywardmc/adrenaline/wiki/Performance-features). Adrenaline can be installed on both clients and servers, so this list tells you what is installed depending on the environment.
+For the list of mods that are included, see this [wiki page](https://skywardmc.org/adrenaline/performance-features). Adrenaline can be installed on both clients and servers, so this list tells you what is installed depending on the environment.
+
+![Available for Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg) [![Chat with us on Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg)](https://discord.gg/36Tv44cYte) [![Available on GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg)](https://github.com/skywardmc/adrenaline)
 
 # 📥 Installation Guide
 
 **Please be sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) section on the wiki before installing Adrenaline. It contains some important instructions on preventing crashes and other performance issues.**
 
-If you would like to install the modpack, go to this page on [the SkywardMC website](https://skywardmc.org/adrenaline). You can install the modpack with a third party launcher or our standalone installer. After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Adrenaline/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory and tweaking your game settings for your device.
+If you would like to install the modpack, go to this page on [the SkywardMC website](https://skywardmc.org/adrenaline). You can install the modpack with a third party launcher or our standalone installer. After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://skywardmc.org/adrenaline/post-install) section of the wiki. This includes procedures such as increasing your allocated memory and tweaking your game settings for your device.
 
 After installing the modpack, you can easily add your favorite mods so long as they are compatible with the Minecraft version you are playing on. The wiki also has some recommendations on possibly improving performance further with other mods that are not suitable to be included in Adrenaline by default.
 
@@ -34,6 +36,15 @@ After installing the modpack, you can easily add your favorite mods so long as t
 <summary>Installing Adrenaline on a server</summary>
 
 Adrenaline also optionally functions server-side! We now use Modrinth's mrpack environment feature to install the proper mods for the correct environment. Client-side mods that are part of Adrenaline will not be installed through these methods. The server portion of this modpack was previously known as [Adrenaserver](https://modrinth.com/modpack/adrenaserver).
+
+<details>
+<summary>
+🏷️ Install using Aternos
+</summary>
+
+You can get a low-power, free server at [Aternos](https://aternos.org). However, it is often a bit slow on vanilla Minecraft without any performance patches. Aternos supports installing Adrenaline by going to `Software -> Change -> Modpacks -> Modrinth -> Adrenaline`, which will speed up your server by quite a lot without affecting vanilla behavior.
+
+</details>
 
 <details>
 <summary>
@@ -132,7 +143,7 @@ Some server hosts may let you set a command that runs before the server actually
 
 First, you need to install `packwiz-installer-bootstrap` from [here](https://github.com/packwiz/packwiz-installer-bootstrap/releases). After that, move it to the same folder as your server's Fabric loader jar. This will usually be the root of the server.
 
-You may change the MC version of the modpack ([available versions only](https://github.com/intergrav/adrenaline/tree/main/versions)).
+You may change the MC version of the modpack ([available versions only](https://github.com/skywardmc/adrenaline/tree/main/versions)).
 
 ```sh
 java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githack.com/intergrav/Adrenaline/main/versions/fabric/1.21.1/pack.toml
@@ -152,7 +163,7 @@ _Having trouble? Check out the [packwiz wiki](https://packwiz.infra.link/tutoria
 
 Adrenaline aims to significantly improve rendering and game logic performance, along with memory and hardware usage, without compromising on the game's looks or features in any way. This is done with various optimization mods that are actively tested for stability and improvement. Some mods are also pre-configured. Adrenaline wouldn't exist without projects like [Sodium](https://modrinth.com/mod/sodium), so I advise you to donate to mod authors and contributors if you can.
 
-For the list of performance mods that are included, see this [wiki page](https://github.com/skywardmc/adrenaline/wiki/Performance-features). Adrenaline can be installed on both clients and servers, so this list tells you what is installed depending on the environment.
+For the list of performance mods that are included, see this [wiki page](https://skywardmc.org/adrenaline/performance-features). Adrenaline can be installed on both clients and servers, so this list tells you what is installed depending on the environment.
 
 ### 🪶 Lightweight
 
@@ -168,14 +179,14 @@ For Hardware Compatibility information, see the corresponding section in [Sodium
 
 # 🐛 How to Report Issues
 
-Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/intergrav/Adrenaline/issues). Be sure to include necessary information like your hardware/software (e.g. GPU and CPU, modpack version and OS) so that it's easier for us to find issues and resolve them.
+Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [issue tracker](https://github.com/skywardmc/Adrenaline/issues). Be sure to include necessary information like your hardware/software (e.g. GPU and CPU, modpack version and OS) so that it's easier for us to find issues and resolve them.
 
 # ❓ Frequently Asked Questions
 
-For a few frequently asked questions, along with tons of other information, consider visiting the [wiki](https://github.com/intergrav/Adrenaline/wiki). It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
+For a few frequently asked questions, along with tons of other information, consider visiting the [wiki](https://skywardmc.org/adrenaline). It has a few other helpful resources that I suggest you read, such as troubleshooting info and more. This wiki is often updated with new information.
 
 # 🍉 Sponsor
 
-Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my client/server performance pack [Adrenaline](https://modrinth.com/modpack/adrenaline) to improve your server's optimization while still allowing vanilla clients to join.
+Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup [Adrenaline](https://modrinth.com/modpack/adrenaline) to improve your server's optimization while still allowing vanilla clients to join.
 
-[![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
+[![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/bddbdb84-1a70-405f-b773-01b20b7eda5e.webp)](https://www.bisecthosting.com/devin)
