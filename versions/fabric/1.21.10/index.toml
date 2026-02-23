@@ -10,7 +10,7 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
+hash = "569e69474a55eb41d46079a4d85691f8ac6fbf4b60e7d4e4b63f36bc3bdf7cec"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
@@ -112,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "55357dc2a4600d1d41da56e732cea49fae96b4975c4be4ac8fc89a38dff7d958"
-metafile = true
-
-[[files]]
-file = "mods/yacl.pw.toml"
-hash = "c36512d6628d41a3a9c16bb535550d42f43dee2bbaea86ca294d922986c6e42c"
 metafile = true
 
 [[files]]
