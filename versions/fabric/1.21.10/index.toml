@@ -10,7 +10,7 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "569e69474a55eb41d46079a4d85691f8ac6fbf4b60e7d4e4b63f36bc3bdf7cec"
+hash = "633e40d4d0297b1388f92877424ac1966077b9e3337096c425711a8683abb050"
 
 [[files]]
 file = "config/yosbr/config/threadtweak.json"
