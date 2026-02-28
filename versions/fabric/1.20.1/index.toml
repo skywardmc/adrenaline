@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "ab961cf1551e454391a6114e875fa2dfa1a4287a6defe66ae2064c1a36f2e173"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "ec107ccd085e97de8338f15cc99e595e44b619320d607dedd70285d8ceda54d1"
+
+[[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
 hash = "ec31fff3a58d804f6c89857469888ac02df536e5e78bd35f5c97c0651b8b66ad"
 
@@ -36,6 +44,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "d8e661ae0f24fb32dc1fe9096e6acdf5e2801336aee7de0d9a479d167543cd83"
 metafile = true
 
 [[files]]

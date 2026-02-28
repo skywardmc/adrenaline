@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "ab961cf1551e454391a6114e875fa2dfa1a4287a6defe66ae2064c1a36f2e173"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "08582580a32aa86c44ce36e2779a0523c10c31f371885e5ec8353e983ec45b2f"
+
+[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
@@ -39,6 +47,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "d8e661ae0f24fb32dc1fe9096e6acdf5e2801336aee7de0d9a479d167543cd83"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
 metafile = true
@@ -55,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "49884f2d7db0e731facf0aa70cf2038dd513624c450cba773a8ca7a47e53953b"
+hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
 metafile = true
 
 [[files]]

@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "ab961cf1551e454391a6114e875fa2dfa1a4287a6defe66ae2064c1a36f2e173"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "232f96c44e7259e2efcf46051380998a472e18baa9afd1a43df914abae66948b"
+
+[[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
@@ -33,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "a22ba7c148744fe8c1ed7580e95e9a285bd71b2b1c2f66ab9d89c5d43e1498f1"
 metafile = true
 
 [[files]]
