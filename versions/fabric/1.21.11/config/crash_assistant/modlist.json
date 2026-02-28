@@ -1,0 +1,133 @@
+{
+	"fabric-loader-0.18.4.jar (modloader)": {
+		"jarName": "fabric-loader-0.18.4.jar (modloader)",
+		"modId": "fabric",
+		"version": "fabric-loader-0.18.4.jar"
+	},
+	"bbe-1.3.0+1.21.11.jar": {
+		"jarName": "bbe-1.3.0+1.21.11.jar",
+		"modId": "betterblockentities",
+		"version": "1.3.0",
+		"curseForgeHash": 1084234752,
+		"modrinthHash": "5183aaa17cfa49d8ddef2ce9fb77827929f07dc9"
+	},
+	"cloth-config-21.11.153-fabric.jar": {
+		"jarName": "cloth-config-21.11.153-fabric.jar",
+		"modId": "cloth-config",
+		"version": "21.11.153",
+		"curseForgeHash": 3629916016,
+		"modrinthHash": "4c224606a963bce223db5b27edb4959ecf40d4ee"
+	},
+	"CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar": {
+		"jarName": "CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar",
+		"modId": "crash_assistant",
+		"version": "1.10.30",
+		"curseForgeHash": 396097673,
+		"modrinthHash": "6a8ccfa38e3593d840922f1f920dde46261d2445"
+	},
+	"cull-fewer-leaves-1.1.1+1.21.11-fabric.jar": {
+		"jarName": "cull-fewer-leaves-1.1.1+1.21.11-fabric.jar",
+		"modId": "cull-fewer-leaves",
+		"version": "1.1.1",
+		"curseForgeHash": 1223500746,
+		"modrinthHash": "7108e3b05672af14cbd72138e2354960bf2e5876"
+	},
+	"dynamic-fps-3.11.4+minecraft-1.21.11-fabric.jar": {
+		"jarName": "dynamic-fps-3.11.4+minecraft-1.21.11-fabric.jar",
+		"modId": "dynamic_fps",
+		"version": "3.11.4",
+		"curseForgeHash": 3469867681,
+		"modrinthHash": "966c7f4018ef34f469bbf54d7e6b64b686a727ab"
+	},
+	"entityculling-fabric-1.9.5-mc1.21.11.jar": {
+		"jarName": "entityculling-fabric-1.9.5-mc1.21.11.jar",
+		"modId": "entityculling",
+		"version": "1.9.5",
+		"curseForgeHash": 1645664120,
+		"modrinthHash": "e2e88c0b2286148e9547eb23d95d2e30e60ad753"
+	},
+	"fabric-api-0.141.3+1.21.11.jar": {
+		"jarName": "fabric-api-0.141.3+1.21.11.jar",
+		"modId": "fabric-api",
+		"version": "0.141.3+1.21.11",
+		"curseForgeHash": 3519153409,
+		"modrinthHash": "50de67eb221f0b38216da8668b09ca311327040e"
+	},
+	"fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar": {
+		"jarName": "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+		"modId": "fabric-language-kotlin",
+		"version": "1.13.9+kotlin.2.3.10",
+		"curseForgeHash": 3487618919,
+		"modrinthHash": "20b2200961e11994595ebb2d5f6624f232d13751"
+	},
+	"ferritecore-8.2.0-fabric.jar": {
+		"jarName": "ferritecore-8.2.0-fabric.jar",
+		"modId": "ferritecore",
+		"version": "8.2.0",
+		"curseForgeHash": 3797693685,
+		"modrinthHash": "c2e2f5e008f5bc9f401dfad8ca94909917006b65"
+	},
+	"fzzy_config-0.7.6+1.21.11.jar": {
+		"jarName": "fzzy_config-0.7.6+1.21.11.jar",
+		"modId": "fzzy_config",
+		"version": "0.7.6+1.21.11",
+		"curseForgeHash": 2733678718,
+		"modrinthHash": "9b064c8bd1d6414549f6a1adcadf678ffa0c96c8"
+	},
+	"ImmediatelyFast-Fabric-1.14.2+1.21.11.jar": {
+		"jarName": "ImmediatelyFast-Fabric-1.14.2+1.21.11.jar",
+		"modId": "immediatelyfast",
+		"version": "1.14.2+1.21.11",
+		"curseForgeHash": 1817047427,
+		"modrinthHash": "4f17c6b7388f0afc5d24075dc2a294963f78c712"
+	},
+	"lithium-fabric-0.21.3+mc1.21.11.jar": {
+		"jarName": "lithium-fabric-0.21.3+mc1.21.11.jar",
+		"modId": "lithium",
+		"version": "0.21.3+mc1.21.11",
+		"curseForgeHash": 3082843448,
+		"modrinthHash": "7733e091bebe5f68aaa4e13cfb6f1eaf3a192379"
+	},
+	"modernfix-5.25.2-build.4.jar": {
+		"jarName": "modernfix-5.25.2-build.4.jar",
+		"modId": "modernfix",
+		"version": "5.25.2-build.4",
+		"curseForgeHash": 4105254426,
+		"modrinthHash": "2ed10989c8ece2460413ed35538972157732a339"
+	},
+	"particle_core-0.3.2+1.21.11.jar": {
+		"jarName": "particle_core-0.3.2+1.21.11.jar",
+		"modId": "particle_core",
+		"version": "0.3.2+1.21.11",
+		"curseForgeHash": 3173556117,
+		"modrinthHash": "9d5b466bd0eabcf49564c760b9e88d781cbe0feb"
+	},
+	"servercore-fabric-1.5.15+1.21.11.jar": {
+		"jarName": "servercore-fabric-1.5.15+1.21.11.jar",
+		"modId": "servercore",
+		"version": "1.5.15+1.21.11",
+		"curseForgeHash": 931831208,
+		"modrinthHash": "c3c6ec10b0ceddaa8f1ef53ffe57db57b4e8638f"
+	},
+	"sodium-fabric-0.8.6+mc1.21.11.jar": {
+		"jarName": "sodium-fabric-0.8.6+mc1.21.11.jar",
+		"modId": "sodium",
+		"version": "0.8.6+mc1.21.11",
+		"curseForgeHash": 1512225672,
+		"modrinthHash": "fa686304c63efea0456af91a0b6352f032e61e66"
+	},
+	"yosbr-0.1.2.jar": {
+		"jarName": "yosbr-0.1.2.jar",
+		"modId": "yosbr",
+		"version": "0.1.2",
+		"curseForgeHash": 441615101,
+		"modrinthHash": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
+	},
+	"zfastnoise-1.0.19+1.21.11.jar": {
+		"jarName": "zfastnoise-1.0.19+1.21.11.jar",
+		"modId": "zfastnoise",
+		"version": "1.0.19+1.21.11",
+		"curseForgeHash": 2401328326,
+		"modrinthHash": "a94e264540a5030dcae0f0174074dec806ad7ee7"
+	}
+}
