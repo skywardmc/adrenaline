@@ -1,23 +1,23 @@
 <div align="center">
-  <a href="https://github.com/skywardmc/Adrenaline">
-    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/adrenaline/adrenaline_textlogo_256h.png" alt="Logo" height="90">
+  <a href="https://github.com/skywardmc/adrenaline">
+    <img src="https://skywardmc.org/branding/adrenaline/text-logo.png" alt="Adrenaline" height="90">
   </a>
   <br />
   <br />
   <p align="center">
-    Leading, lightweight performance modpack with no QoL features. Designed for clients and servers
+    A lightweight, open-source performance modpack for Fabric
     <br />
     <a href="https://skywardmc.org/adrenaline">Explore the wiki</a>
     ·
-    <a href="https://github.com/skywardmc/Adrenaline/issues">Report Bugs</a>
+    <a href="https://github.com/skywardmc/adrenaline/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/skywardmc/Adrenaline/issues">Request Features</a>
+    <a href="https://github.com/skywardmc/adrenaline/issues">Request Features</a>
   </p>
-  <a href="https://modrinth.com/modpack/adrenaline"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
-  <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
 </div>
 
-Adrenaline is a **client-side** or **server-side** modpack comprised of the **best combination of mods** (e.g. Sodium and Lithium, along with many more) that significantly improves rendering performance, logic performance, memory usage, and more - all without compromising on the game's vanilla looks and features! It is designed to be simple and not include any quality-of-life mods, along with not including redundant performance mods. Because of this simplicity, the modpack is compatible with a very wide range of devices and can be updated to the latest versions very quickly. Want more features? No problem! Adrenaline serves as a great foundation for performance - simply add your favorite mods on top.
+Adrenaline is a **client-side** or **server-side** modpack, developed for Fabric, comprised of the **best combination of mods** (e.g. Sodium and Lithium, along with many more) that significantly improves rendering performance, logic performance, memory usage, and more - all without compromising on the game's vanilla looks and features! 
+
+It is designed to be simple and not include any quality-of-life mods, along with not including redundant performance mods. Because of this simplicity, the modpack is compatible with a very wide range of devices and can be updated to the latest versions very quickly. Want more features? No problem! Adrenaline serves as a great foundation for performance - simply add your favorite mods on top.
 
 For the list of mods that are included, see this [wiki page](https://skywardmc.org/adrenaline/performance-features). Adrenaline can be installed on both clients and servers, so this list tells you what is installed depending on the environment.
 
