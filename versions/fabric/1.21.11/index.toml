@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "eff6c38eba40acb92f7ed17e484a95b9fb42d732dbefe29d8d606ed2b7145274"
+hash = "f78b4744af52444495d70122b0fe048391c5af95911055de9706036c44055c14"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
