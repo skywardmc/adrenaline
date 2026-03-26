@@ -39,11 +39,6 @@ hash = "0745f035193b0b9e6f73dc04dbff625d3f10feca2ce24b9b242bc5fc5791868d"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
-metafile = true
-
-[[files]]
 file = "mods/configmanager.pw.toml"
 hash = "6868ff98071493d02294c37e7ed6b07830f52733a67aff3164c2f6f5217da73c"
 metafile = true
@@ -51,11 +46,6 @@ metafile = true
 [[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "9696f86db9c7d90c0716b38c25f0b70d1c432d56cd444f061b652f18ea0bd86f"
-metafile = true
-
-[[files]]
-file = "mods/cull-fewer-leaves.pw.toml"
-hash = "1c7a504f7239170935e223fa7bef0f9b4f8df068ccadb71d49a7897c334adb90"
 metafile = true
 
 [[files]]
@@ -89,11 +79,6 @@ hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
-metafile = true
-
-[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "75f91f7e5779ed7e7ddf295d63f301a0a87ffbc4757da81ef740d42fbfeaa8f9"
 metafile = true
@@ -119,11 +104,6 @@ hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
 metafile = true
 
 [[files]]
-file = "mods/particle-core.pw.toml"
-hash = "51c5dc79381f5e788aa78211c82a8294ec8b1313a5f8cc584fba1e62664dea81"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d16f2d49c73cfbf63d9951c05b6453632d4f31ed3bd95024d1a3646ec3c983f2"
 metafile = true
@@ -131,11 +111,6 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "d147ee0fae53eb7ce034fe800d33d3dd15f1024eab3ca6d2b2ef9dbb86ec996c"
-metafile = true
-
-[[files]]
-file = "mods/servercore.pw.toml"
-hash = "c8797508817203139598e45c3249c08bef98d913082d3adb7ce07a6c55e8bdb5"
 metafile = true
 
 [[files]]
