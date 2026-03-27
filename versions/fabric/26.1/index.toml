@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0745f035193b0b9e6f73dc04dbff625d3f10feca2ce24b9b242bc5fc5791868d"
+hash = "825652cca3d809cc99d157f723b23df62368e837059a098ca24f105205f4384a"
 metafile = true
 
 [[files]]
@@ -79,13 +79,18 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "446f2b20f237704feaafa54233134803ce081ca51ca191b271700cba7b601437"
+metafile = true
+
+[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "75f91f7e5779ed7e7ddf295d63f301a0a87ffbc4757da81ef740d42fbfeaa8f9"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "19fc9247d6714a1a81f4ec64d8f0aeda1f6d2b8ecbe51d6917d80947394750c9"
+hash = "3b7f33d3d619dd8de71f3cf76971f7217b182e9c36da3fc86248524af5aae563"
 metafile = true
 
 [[files]]
