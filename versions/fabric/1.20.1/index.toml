@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "f78b4744af52444495d70122b0fe048391c5af95911055de9706036c44055c14"
+hash = "1da4e84af9bdb661089f2032e301b747c2193292689ca7340b75eab94d4e67c6"
 
 [[files]]
 file = "config/modpack_defaults/config/cull-less-leaves.json"
