@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "1da4e84af9bdb661089f2032e301b747c2193292689ca7340b75eab94d4e67c6"
+hash = "8f422c3e4c8b45e7a5de9895043b30d61ecac117991c8f521fcf7d6d8062a5d0"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -50,12 +50,12 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "797068051b88595d3342b8a777cca15eb5bc03cc5c9ccdde9934389c2a71555c"
+hash = "3b318c0ccdd5464b7bdb0e631a0ec2e9200cbab630a01789e0feed494256c927"
 metafile = true
 
 [[files]]
 file = "mods/cull-fewer-leaves.pw.toml"
-hash = "1c7a504f7239170935e223fa7bef0f9b4f8df068ccadb71d49a7897c334adb90"
+hash = "d0add31369d5c8f55b5ead44ae14cf0e1d6dc41bf2fadac87c239f74ccc43578"
 metafile = true
 
 [[files]]

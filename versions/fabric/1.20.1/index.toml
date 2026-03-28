@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "1da4e84af9bdb661089f2032e301b747c2193292689ca7340b75eab94d4e67c6"
+hash = "8f422c3e4c8b45e7a5de9895043b30d61ecac117991c8f521fcf7d6d8062a5d0"
 
 [[files]]
 file = "config/modpack_defaults/config/cull-less-leaves.json"
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "297e53ce991603025f9eccb5d800fab49856900f91e9a9ed6a832986731d09e2"
+hash = "c9dd4f8ea8cc6a52105c441fc80f8f216ccf28e562fa73bcc7a5362915d809b2"
 metafile = true
 
 [[files]]
