@@ -6,7 +6,7 @@ upload_to = "mclo.gs"
 [text]
 support_name = "SkywardMC Discord"
 support_place = "#support channel"
-modpack_name = "Additive"
+modpack_name = "Adrenaline"
 
 [modpack_modlist]
 enabled = false
