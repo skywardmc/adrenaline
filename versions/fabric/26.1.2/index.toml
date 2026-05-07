@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "8f422c3e4c8b45e7a5de9895043b30d61ecac117991c8f521fcf7d6d8062a5d0"
+hash = "246a48029d30594831e3485f5a23b19df626c9f8f97c3d707a10f85c5a78cbc7"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7bdfbd2b3b10efe1c337b347ca44769cc1743984edbc7f49ae79d9761d6b485d"
+hash = "ab82e4970b5431de7f414e42affed23423e468c554767abe363d8906933bc00a"
 metafile = true
 
 [[files]]
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "6ce63927ee36334ced0cfbeae2e885595c5a75ca0e39633d66b35a2904ee36eb"
+hash = "b0ee602e15644fb8c5a3c49e3decbf5453c2e7ae9473f5b249f65cbcf9a1a944"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f88b106c6c7500d912c11c973d9c124d52b1577c52630c282720367312452d24"
+hash = "5adf60faf11b97a7979f398fd6c494f55603a384880db1bf9755f2495d0dc5a2"
 metafile = true
 
 [[files]]
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "c9a661d4865d0ba5d2b6356141c6e7ad6246586aa5224d482c23bf309b6bdc3a"
+hash = "45db1736aeee554d2db425ad7da44c2d19ab30920d406816b93c34ab7dfe568a"
 metafile = true
 
 [[files]]
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "030f69f3a7e275201c10eef33ae360341a3c280b06955134b6885aeaa8883d6a"
+hash = "b3bf6eb1cf803d702af91d3ca5f39e7528e1d55afdae03833f6e31698803caa9"
 metafile = true
 
 [[files]]
@@ -145,5 +145,5 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "0f9ef1477920c02d1114c4d6eb001be0961779f0475e9c25c7eb6c4aac4149cb"
+hash = "6d06b6fd8b81a3996e012d95a59f5076eca0e9fbf59bbfe7914ba1860f951f57"
 metafile = true

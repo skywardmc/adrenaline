@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "8f422c3e4c8b45e7a5de9895043b30d61ecac117991c8f521fcf7d6d8062a5d0"
+hash = "246a48029d30594831e3485f5a23b19df626c9f8f97c3d707a10f85c5a78cbc7"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "2ec044895c0c5d16b0c5e441212486dc6db3bd6ed6b61250f071d51ce7081036"
+hash = "8f8efa9811c1cf8f339d02a8fa63a7e538740c76c8f6910ec0a979e890e77dbb"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "9e6a3fb54ebb13ea95ced681d270cfa83134e95bb7111de140208db7160fffa7"
+hash = "ae4df7339a87050b5dd04597cf5c83fd4ffe038a7817ccf9a0b22a2245b5cf94"
 metafile = true
 
 [[files]]

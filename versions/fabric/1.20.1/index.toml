@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "8f422c3e4c8b45e7a5de9895043b30d61ecac117991c8f521fcf7d6d8062a5d0"
+hash = "246a48029d30594831e3485f5a23b19df626c9f8f97c3d707a10f85c5a78cbc7"
 
 [[files]]
 file = "config/modpack_defaults/config/cull-less-leaves.json"
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "bf5126cfccebfe97c55dd58b1c7e0ab5ea26b7956f2c52ba71d4af9bbf6e9730"
+hash = "b2dfb994b81c1abf1dba036c84e560832d726c633cd69d1e3bebbfc105541558"
 metafile = true
 
 [[files]]
@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "8849fe47eb571bdb6c4a522b8087b0eab8f800fa92eeb4e85cba74473a51ae25"
+hash = "b81cf8cf53cfe7231b0cacf555af00dedf55f0419895af4bde0e77764fbd04d9"
 metafile = true
 
 [[files]]
