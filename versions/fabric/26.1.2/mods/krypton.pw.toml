@@ -1,6 +1,6 @@
 name = "Krypton"
 filename = "krypton-0.3.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/kYAGItyj/krypton-0.3.0.jar"
