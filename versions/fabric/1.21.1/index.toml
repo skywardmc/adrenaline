@@ -149,11 +149,6 @@ hash = "311d23361c153f7adcad260255fe3b2062f1c8e67c75ee088e0b61855e9d9134"
 metafile = true
 
 [[files]]
-file = "mods/sodiumleafculling.pw.toml"
-hash = "0a6179657082b15117e18fbc80fd60538dc91024a63006e843cb5dbf1991bcbe"
-metafile = true
-
-[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "300bbdd1b2feaef57f228585b73ca8f35909ec247bda36dc9664288bc08b6158"
 metafile = true
