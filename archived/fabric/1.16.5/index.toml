@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "baf0d13752f77a7581cda733712b533d8c07bb6dbf381008a457ab3cae5d81b2"
+hash = "6560883454d3b59ef7c578f4bd6d67ecde6b4da8f15e8e6c6f4b5b491736eeda"
 metafile = true
 
 [[files]]
@@ -93,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c4e20c63f116b861de0d200f3d88f7e1f3980b76e421ec9412032cbcbbe3f390"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "f6ecb4df1af071f8e879ebb7bf5bfdf5522d49092ff12c58a0dc84b77a31024e"
 metafile = true
 
 [[files]]
