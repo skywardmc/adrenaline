@@ -29,6 +29,11 @@ file = "config/modpack_defaults/options.txt"
 hash = "c402465b389607f17ecd45b44d5aef66a3750cef2d1c435189aaf81b667715b8"
 
 [[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "e68a8f42735f487cfe40419b719b3fd59e1698661949a76bbcbfb53c42295908"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "6d0e4579750e9cbae8489a3a3256187c698a140496d29fa849d2aaa4ffa53cf4"
 metafile = true
@@ -79,11 +84,6 @@ hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
 metafile = true
@@ -121,11 +121,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "97156c7cbfd94c3f457f5ef89ab65f1b963b1559f98fd3923ab40cf8cc21a905"
 metafile = true
 
 [[files]]
