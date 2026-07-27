@@ -29,6 +29,11 @@ file = "config/modpack_defaults/options.txt"
 hash = "c402465b389607f17ecd45b44d5aef66a3750cef2d1c435189aaf81b667715b8"
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "2aa1892b809683f9566fe863329ef92f251c2e31a330345af48ce92a7bfda6a7"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "6ca9484dcfa28762f68768bca2c7e26373554c1ec8dd9abe6dca07ac05bb27ee"
 metafile = true

@@ -29,6 +29,11 @@ file = "config/modpack_defaults/options.txt"
 hash = "c402465b389607f17ecd45b44d5aef66a3750cef2d1c435189aaf81b667715b8"
 
 [[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "23ccb09d0d71e059960a5c1402c2c1b900c00b1404cbb6ff65c3357610476885"
+metafile = true
+
+[[files]]
 file = "mods/asyncparticles.pw.toml"
 hash = "27bce2536f1421e63faff3b541d6eca9e4a16225e661a1a02ee1ab8858141109"
 metafile = true
