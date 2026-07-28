@@ -1,6 +1,6 @@
 name = "Adrenaline"
 author = "SkywardMC"
-version = "26.4.1+mc26.1.2.fabric"
+version = "26.4.2+mc26.1.2.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
