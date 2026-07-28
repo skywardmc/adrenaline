@@ -38,11 +38,6 @@ hash = "d2efdd2dd469e56d9437082a52d6d8d9f9c4b055ad3b728dded4c49d4ba5267a"
 metafile = true
 
 [[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "24404c5ec658b3718d682fdf8ffbe19314317bab3bd2ba60ced6a64ec43c67bc"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ade864be9b0be5ed45fe53e621c9bd30778cbf2cfbf702b27aca203abf1d7bf7"
 metafile = true
@@ -93,6 +88,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "51b79a1eacb4f15f1626c802137c95b0a4316fefb540e6ec31cf81118b91c20b"
 metafile = true
@@ -135,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/obe.pw.toml"
 hash = "5fcf19600b5caea3fa7e1d45cd6cfb4454f568183465f57319f69b4522072929"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "6145f87dcf4ed503396679ad80bfda836192c7493aa3f5a2a7ffe85c84ecd21a"
 metafile = true
 
 [[files]]
