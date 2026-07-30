@@ -146,7 +146,7 @@ First, you need to install `packwiz-installer-bootstrap` from [here](https://git
 You may change the MC version of the modpack ([available versions only](https://github.com/skywardmc/adrenaline/tree/main/versions)).
 
 ```sh
-java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githack.com/intergrav/Adrenaline/main/versions/fabric/1.21.1/pack.toml
+java -jar packwiz-installer-bootstrap.jar -g -s server https://raw.githack.com/skywardmc/adrenaline/dist/versions/fabric/1.21.1/pack.toml
 ```
 
 If you are running this server through a batch file or shell script, you can add this command before your server's launch command and it should work just fine.

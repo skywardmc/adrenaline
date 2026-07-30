@@ -1,0 +1,56 @@
+name: Build dist
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - versions/**
+      - .github/workflows/build-dist.yml
+  workflow_dispatch:
+
+concurrency: build-dist
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - uses: actions/setup-go@v7
+        with:
+          go-version: "stable"
+          cache: false
+
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+
+      - name: Build dist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git show-ref --quiet refs/remotes/origin/dist; then
+            git switch --create dist --track origin/dist
+          else
+            git switch --create dist origin/main
+          fi
+
+          git rm -r --ignore-unmatch versions
+          git checkout origin/main -- versions
+          find versions -type f -name pack.toml -exec sh -c \
+            'cd "${1%/pack.toml}" && packwiz refresh --build' _ {} \;
+
+          git add versions
+          if ! git diff --cached --quiet; then
+            git commit -m 'ci: packwiz refresh --build'
+            git push origin dist
+          fi
