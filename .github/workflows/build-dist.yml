@@ -3,8 +3,8 @@ name: Build dist
 on:
   push:
     branches: [main]
+    tags: ["**"]
     paths:
-      - versions/**
       - .github/workflows/build-dist.yml
   workflow_dispatch:
 
@@ -20,13 +20,11 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
-          ref: main
           fetch-depth: 0
 
       - uses: actions/setup-go@v7
         with:
           go-version: "stable"
-          cache: false
 
       - name: Install packwiz
         run: |
@@ -45,12 +43,17 @@ jobs:
           fi
 
           git rm -r --ignore-unmatch .
-          git checkout origin/main -- versions
-          find versions -type f -name pack.toml -exec sh -c \
-            'cd "${1%/pack.toml}" && packwiz refresh --build' _ {} \;
+          git checkout "$GITHUB_SHA" -- versions
+          find versions -type f -name pack.toml -execdir packwiz refresh --build \;
 
           git add versions
           if ! git diff --cached --quiet; then
             git commit -m 'ci: packwiz refresh --build'
+          fi
+
+          if [ "$GITHUB_REF_TYPE" = tag ]; then
+            git tag "dist/$GITHUB_REF_NAME"
+            git push origin dist "dist/$GITHUB_REF_NAME"
+          else
             git push origin dist
           fi
