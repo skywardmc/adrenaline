@@ -41,10 +41,10 @@ jobs:
           if git show-ref --quiet refs/remotes/origin/dist; then
             git switch --create dist --track origin/dist
           else
-            git switch --create dist origin/main
+            git switch --orphan dist
           fi
 
-          git rm -r --ignore-unmatch versions
+          git rm -r --ignore-unmatch .
           git checkout origin/main -- versions
           find versions -type f -name pack.toml -exec sh -c \
             'cd "${1%/pack.toml}" && packwiz refresh --build' _ {} \;
