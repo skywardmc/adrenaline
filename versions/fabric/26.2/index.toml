@@ -30,7 +30,7 @@ hash = "c402465b389607f17ecd45b44d5aef66a3750cef2d1c435189aaf81b667715b8"
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "2aa1892b809683f9566fe863329ef92f251c2e31a330345af48ce92a7bfda6a7"
+hash = "0c615d15fa44b5f4511383f35f4f814a24abc3a3a1d9af9c1bb516be7962010d"
 metafile = true
 
 [[files]]
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "c40e0e9470504b51e2f638b86b4a3ca5c41c8f89efd0dbbe104f1816e911401f"
+hash = "9a79a3cace0eb7f75a158582e805fa8d44409441dee9e6bcc83085d378ae30d4"
 metafile = true
 
 [[files]]
@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "c0f8dd38f84e89870316f0c65ba98bf43fbe38464f9b99ad65e2f06d8a3c1c63"
+hash = "f7909025ba51d36c602efaf988449b66c1d44ab1bfce28ba7f0ad2806f077099"
 metafile = true
 
 [[files]]
@@ -70,17 +70,17 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ef9b3d887d5b2b31809fda35b2bfa4d68346e4491d4b52128358c2ed77741b89"
+hash = "9ccaa582844d45222581b90ca5ce61acf117408c635b904673e1c4d89969f40b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "848db8de89cc26314f20f6cf86e6c2cfc6e2cdd1a30a7d494575a4e24a8ef9f6"
+hash = "af4c96fcc59bec634f457bf7693496f203ceaac28a180e84a73c488a1a2895cb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
@@ -90,17 +90,17 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "289599ac70b0f0a9a0055f1bd10fb7e2c38c540c3ef49db8779c5c3988a7455c"
+hash = "d6d8aa0f220ddf366133ce02184e30c1d8204f7741da97040344ab53bb4b98ce"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "4558d459a64d360ef8954016a272f690b45e74fe8f078388a5a6329e5fa973f6"
+hash = "fcd0dedf8a47b5e5e298cb9e26fe8f9bb3be8ac892e7ad238f8f781c0faaf2bd"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "e8f3ab9ca9b83d6d8417bd6ba95908aada01d25f909286712bfec071f600681a"
+hash = "562410f9f73d0608eee4815965f2a82fb5ec1ab117dc927ac9bf52550c739ee2"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b7e98520b66f5a11f8a4ad84e518de34d97d1ca84152f3a427d9e7820299fbdd"
+hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9ceb72b7c586df8828ee5e9eaf096c913f8debe92805cd5ce6c4ea8922e5fe1d"
+hash = "fa00f7dbf48bbcf6940248d3fd3629f43656c54006cc63d5560f9ca77ccd97a9"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+hash = "e0274d780169d81e54561b2c71ed188d6864f6bdf0d73c70ec351d925a9b2e18"
 metafile = true
 
 [[files]]
@@ -164,6 +164,16 @@ hash = "039e320e70b118ce3699090d5f1aeb267013e1886cc13e2de29e09b9fd33abf0"
 metafile = true
 
 [[files]]
+file = "mods/zconfig.pw.toml"
+hash = "8078347c8e2fd79bbb3e414fd36bc319e2d043f8d3b955c14f430fee0b5d6843"
+metafile = true
+
+[[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "4ba8d9034987370f6a68c3434a19f3828a21d6000e883fd1b986f888721d000e"
+hash = "0a0636ace08da4d39a638a3fde48b1c3b62fca5207c680000f3431d6bd509b24"
+metafile = true
+
+[[files]]
+file = "mods/zmaterial-rule-compiler.pw.toml"
+hash = "7409535fa5538276e9fcada48043252c283bf1525d772cea54b9dd906c4ac67f"
 metafile = true
