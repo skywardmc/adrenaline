@@ -1,12 +1,12 @@
 name = "Adrenaline"
 author = "SkywardMC"
-version = "26.5.0+mc26.1.2.fabric"
+version = "26.5.1+mc26.1.2.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e1d366e3a1a0d8c1cfb3f163bc8f3e76d3ef937766266726b7dfe3b9905e4800"
+hash = "2f1e6d3f847dc9bfa4b571494279a2e098c3e04465b86b069eaf83a3b693ade2"
 
 [versions]
 fabric = "0.19.5"

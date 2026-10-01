@@ -14,7 +14,7 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
-hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
+hash = "315f6bbb6ae9caa6f4e8e14de2099596a855779840bef0ea17595217e0bd317b"
 
 [[files]]
 file = "config/modpack_defaults/config/modmenu.json"
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9d031aefb9acf62b4c7c6b6f53d4427db1996de071895c06d921c2977c7d7e48"
+hash = "5589b35ab770daa5deb3d5ee1b1279c2eafe2334ad17e140b51e68f121123047"
 metafile = true
 
 [[files]]

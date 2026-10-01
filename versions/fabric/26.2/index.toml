@@ -14,7 +14,7 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
-hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
+hash = "315f6bbb6ae9caa6f4e8e14de2099596a855779840bef0ea17595217e0bd317b"
 
 [[files]]
 file = "config/modpack_defaults/config/modmenu.json"
@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9a79a3cace0eb7f75a158582e805fa8d44409441dee9e6bcc83085d378ae30d4"
+hash = "1aa222690c08ced58320e7266cbf42383d95e86f0fad567c264bf83ef79a7824"
 metafile = true
 
 [[files]]
@@ -115,12 +115,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "ba528e27fc27b75a1997936bba35cf7d14c4d4d203aab5c067d5ec3ffcd0cfb6"
+hash = "0ea4ca54ca588caf91a5223b5056e12359a532ec27fd4a22f4962e7d1ee6ce21"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "fa00f7dbf48bbcf6940248d3fd3629f43656c54006cc63d5560f9ca77ccd97a9"
+hash = "dc9906e45919f5b3a31e3d5582cd97bdd7534f56c2a5e730b9de41875a97e1eb"
 metafile = true
 
 [[files]]
@@ -171,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "0a0636ace08da4d39a638a3fde48b1c3b62fca5207c680000f3431d6bd509b24"
+metafile = true
+
+[[files]]
+file = "mods/zfastsurface.pw.toml"
+hash = "eefb86aa25654279290fed21b70d802dbe8c30ca98784bde8f202a175c86ff84"
 metafile = true
 
 [[files]]

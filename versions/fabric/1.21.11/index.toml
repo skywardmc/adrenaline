@@ -115,12 +115,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "496f7d1bad22abbde478ccf9fde458732afbc93ab9e5765d85f2501e23ce8db5"
+hash = "db026db2e6fb5b7f395646f39ccd40ed9b2937bf43e531335e103fcdae3b896c"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "04161fe0dcb23469df8b66dba353592f0e5c4ea4f64b2f7a1636033ccdb9e351"
+hash = "85b7612aaf49e6c2eac33697e6d909f2e94adadc50d0bc706d9a552a0ac95d51"
 metafile = true
 
 [[files]]

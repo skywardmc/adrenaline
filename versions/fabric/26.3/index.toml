@@ -14,7 +14,7 @@ hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
-hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
+hash = "315f6bbb6ae9caa6f4e8e14de2099596a855779840bef0ea17595217e0bd317b"
 
 [[files]]
 file = "config/modpack_defaults/config/modmenu.json"
@@ -40,12 +40,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "8ba9eca8ecfc65ba84a33c320f993eab6a3514d5366385d4222499e5101311d9"
+hash = "67cd707b00e8a67a867a53bfb4da7a596ac80f3ff4bcbcd76fbfd40780600453"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "55554bc0f0370f38eea13d1cc9ef2a8cbe253f3c1b837a08e733300b478ea266"
+hash = "2b9727522c90a979eb9671ad7c5421443d91391b0697d1772146e6bfa19cb3c1"
 metafile = true
 
 [[files]]
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "bd842d14ebb84eb6fb734c1a5fb98b614cc85f639f7fd0ad2cb2d7be6dd7d9c6"
+hash = "6a00e79ede036ca000b0340f10080d4702665e567e9c0a1738a6dd03d977b26a"
 metafile = true
 
 [[files]]
@@ -105,22 +105,22 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "b985dc3befdc7c02ff4340e9f904865e528f4c705b4f72c84767f061bc7253c7"
+hash = "d2270d83f52a100881039af3773e996e130f443d16686b1813d24c7d05df26f2"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "d68f9ad500e062c1e3b59f25bf72416e579d18d836b104f2712464298932eca7"
+hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
 metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "4d46615697276151aa0c7403f8368d467cb7dd12b040659b67bd34364d0f9780"
+hash = "3b3b9e886735bd8d8809954b7da8d1cca5b8186086379f129f0e4183470a7b2b"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "85475cc5c63e9e38695503a70847582ca21f8ba46f7465979d92dff22b009fd2"
+hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
 metafile = true
 
 [[files]]
@@ -170,10 +170,15 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "254c71d7e0ce74ca91e070d2dacff9d9f4deffe17bbda20449962741568fab44"
+hash = "b7ffa132a714793a8765befdd471d52c2e4ba81132ad19f639e4f22e29b6ffe3"
+metafile = true
+
+[[files]]
+file = "mods/zfastsurface.pw.toml"
+hash = "4025421405da6b72fe812d5b7c13e015acaa5f2144a471f787f38eb39d846793"
 metafile = true
 
 [[files]]
 file = "mods/zmaterial-rule-compiler.pw.toml"
-hash = "4813d7e57c730a6f7865ba24c4f931b6227be044eb44d693c736714ab0f73e8f"
+hash = "209369af8771c6c509d4be840ed4b8e1e19ad221aeffa468b0d1f2751de9b705"
 metafile = true
